@@ -20,7 +20,7 @@ Outside lands的几个舞台分布在golden gate park里面的几个小盆地里
 接着随着汹涌的人潮去看了Marina，我之前其实对她一无所知，但是我天她真的好强，而且好美。我们本来坐在山坡上，但是她一开唱大家都跳起来了。
 
 <video width="100%" controls>
-  <source src="/image/IMG_0654.mp4" type="video/mp4">
+  <source src="https://github.com/ZsEun/ZsEun.github.io/raw/refs/heads/main/image/IMG_0654.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -34,3 +34,5 @@ Doechii也好强，本来电台里天天放她anxiety我都有点烦了，但是
 再加上入夜之后寒风刺骨，所以听了二十分钟我们就走了。
 
 等明年要是能捡漏到便宜票那我还来。
+
+

@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "一种时分复用的打游戏方法"
+date:   2025-08-10
+categories: Life
+---
+
+这已经不知道是第多少篇我提到我在打喷喷的博客了。众所周知一直打游戏的话对身体不好，更是会受到社会舆论的非议。
+但是最近一种时分复用的创新方法被引入到打游戏的过程当中，实现了参与者身体和精神的双重放松。（英语学术文章翻译成中文语气）。
+
+简单来说，就是打喷喷需要联网，但是任天堂又时不时掉线，而且一旦掉线要再等十分钟才能再次匹配。我将计就计，利用这十分钟看会书，或者简单运动一下，或者做做家务,活动一下身体，然后再接着打游戏。
+
+如果游戏一直不掉线的话，我也会打三局（大概15分钟不到）休息十分钟。
+
+而且可能是手机刷多了注意力很难集中，本来我现在读书也很难坚持十分钟以上，利用这个机制正好能翻几页，聚沙成塔。
+
+即使在游戏期间，每局之间大概会花一分钟来匹配，我也会站起来做做深蹲之类的。（之前
+<a href="https://zseun.github.io/life/2025/06/17/journal_12.html" target="_blank" rel="noopener noreferrer">听播客讲过，</a>
+碎片化运动同样延年益寿）。
+
+我要是医学博士在读，有了这么具有创新性的idea，再加上点实验数据，至少也能发个会议吧。😊
+
+---
+
+I’ve honestly lost count of how many blog posts I’ve written about playing Splatoon.
+As everyone knows, playing games all the time isn’t exactly great for your health — and it’s often met with societal disapproval.
+But recently, an innovative time-division multiplexing approach has been introduced into my gaming routine, 
+achieving a dual state of physical and mental relaxation for the participant. (yes, straight from the language of academic papers) 
+
+In simpler terms: Splatoon requires an internet connection, but Nintendo’s servers drop out every now and then — 
+and once you disconnect, you have to wait ten minutes before you can rejoin.
+So I’ve turned this into a feature, not a bug: using those ten minutes to read a few pages, 
+do some light exercise, or get a bit of housework done. Then I hop back into the game.
+
+Even if the connection holds, I’ll still play three matches (about 15 minutes or less), then take a ten-minute break.
+
+Maybe it’s all the phone scrolling that’s wrecked my attention span, but these short intervals are perfect for reading — 
+I can actually get through a few pages without my brain wandering, and those pages do add up over time.
+
+And even during the game, there’s usually a one-minute wait while matchmaking between rounds. 
+I use that time to stand up, stretch, or do a few squats.
+(As I mentioned in
+<a href="https://zseun.github.io/life/2025/06/17/journal_12.html" target="_blank" rel="noopener noreferrer">this post</a>,
+micro-workouts can actually improve longevity.)
+
+If I were a medical PhD student, with an idea this groundbreaking plus a bit of experimental data, 
+I could probably get it into at least a conference paper. 😊

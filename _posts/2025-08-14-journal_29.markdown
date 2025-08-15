@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "上班就是压制与反压制"
+date:   2025-08-14
+categories: Life
+---
+
+昨天开组会的时候，manager N突然提到那天早晨我发的一封push EE的邮件，说I'm superised he pushed them very hard. 
+First time to see Z has a backbone and ownership.
+
+我心想，啊我之前干那么多活都不算ownership吗。
+与此同时，我的直属manager还有其他经常跟我work的同事都笑了，一个senior A说，you should see Ze in a meeting after 6pm.
+听到这句我也笑了。
+
+他说的是之前有段时间，
+<a href="https://zseun.github.io/life/2025/05/21/journal_2.html" target="_blank" rel="noopener noreferrer">我们经常需要在晚上跟亚洲开会</a>
+。
+其中有一次跟vendor开会的时候，对面完全回答不出我提出的技术问题，顾左右而言他，我被搞得很不耐烦，直接打断他，语气冷酷地逐条跟他确认是或否，或者他就是不知道。
+A后来跟我说，那次我的表现让他印象深刻。
+
+我博士期间的实验室在上周末搞了一年一度的picnic，当时跟在另一个大厂工作的小P聊天。
+我说在我们公司，desense的优先级很低，compliance能过最重要。他说啊？他是compliance，但是被desense压制。
+
+总之上班就是压制与反压制。
+
+另外我跟Leo提到组会上的事情，说I realize somtimes being a littile bit tough will make others respect you。他的反应竟然是this is true for a man。
+我立刻意识到，oh yes, this might not be true for a women.
+
+--- 
+
+During our group meeting yesterday, my manager N suddenly mentioned an email I’d sent that morning pushing the EE team. 
+He said, “I’m surprised he pushed them that hard. First time I’ve seen Z with a backbone and ownership.”
+
+In my head, I was like—wait, so all the work I’ve done before doesn’t count as ownership?
+Meanwhile, my direct manager and other teammates who work with me often started laughing. 
+One senior teammate, A, said, “You should see Ze in a meeting after 6 p.m.” I laughed too.
+
+He was referring to a period when 
+<a href="https://zseun.github.io/life/2025/05/21/journal_2.html" target="_blank" rel="noopener noreferrer">we had a lot of evening calls with Asia. </a>
+In one meeting with a vendor, they completely dodged my technical questions, answering around in circles. 
+I got so fed up I just cut them off and went through each question one by one—yes or no, or admit you don’t know. 
+My college A later told me that left a strong impression on him.
+
+Over the weekend, my PhD lab had its annual picnic, and I was chatting with P, who works at another big tech company. 
+I told him that in our team, desense usually takes a back seat—compliance is king. 
+He was surprised, because in his team, he is in charge of compliance, but he actually gets overruled by desense.
+
+I guess work is just a never-ending game of suppression and counter-suppression.
+
+Besides, I mentioned the group meeting story to Leo and said, “I realize sometimes being a little bit tough will make others respect you.”
+His response: “This is true for a man.”
+And I immediately realized—oh right, that might not be true for women.

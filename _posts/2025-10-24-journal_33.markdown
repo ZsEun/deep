@@ -22,9 +22,11 @@ categories: Life
 下面这个是整场秀的最后一首曲子。其实整场我最喜欢的是其中一位单人表演的时候了唱Lady Gaga新专里的歌，不过可惜没有录：
 
 <video width="100%" controls>
-  <source src="https://github.com/ZsEun/ZsEun.github.io/raw/refs/heads/main/image/IMG_0029.MP4" type="video/mp4">
+  <source src="https://github.com/ZsEun/ZsEun.github.io/blob/refs/heads/main/image/IMG_0029.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
 
 回来之后，这几天我们每天晚上都在看现在正在更新的英国版RuPaul。我觉得是不是英国人比美国人含蓄啊，里面的drama明显比美国版要少。
 认熟了脸之后我还给好几个人起了外号，看起来感觉更亲切了。几期下来竟然也能看到选手的人物弧光，初看讨厌的女孩到现在也觉得很可爱。

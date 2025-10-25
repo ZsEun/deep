@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "锵锵三人行"
+title:  "读万卷书、行万里路的大人"
 date:   2025-10-22
 categories: Life
 ---

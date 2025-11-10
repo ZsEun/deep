@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "互联网就是garbage in garbage out"
+date:   2025-11-09
+categories: Life
+---
+
+我本来想把最近几个月听过的播客、在b站和youtube看过的视频挑出一些值得说的总结一下。但是在播放历史里翻找了一番，发现并没有什么特别值得说的。连这些长视频平台都这样，更不用说根本连播放历史都不存在的短视频平台了。
+所以基本可以说，互联网上的内容都不过是打发时间的快消品，garbage in garbage out。趁机把youtube premium membership给取消了。
+
+给自己的一个期望：如果看到一个视频标题就知道它只是在煽动情绪，尤其是负面情绪，那就不要点开了，不需要给自己制造回音壁。
+
+下面是勉强挑出来的一些：
+
+首先<a href="https://www.xiaoyuzhoufm.com/episode/68f74abe226547302088c3fa?s=eyJ1IjogIjVlZGYwMjVjYjBmZjkwOGQ3ZDc0ODJlNCJ9" target="_blank" rel="noopener noreferrer">这一期</a>
+讲真假美猴王的非常精彩，可惜没有上架苹果播客
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/442-%E6%B8%A1%E6%B5%B7%E5%8A%AB%E6%B3%A2-%E5%90%B4%E7%9F%B3-%E8%94%A1%E5%AD%9D%E4%B9%BE%E4%B8%8E%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E4%B8%8B%E7%9A%84%E5%8F%B0%E6%B5%B7%E8%B0%8D%E6%88%98/id1493503146?i=1000734411764"></iframe>
+
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/048-%E4%B8%8A%E7%8F%AD%E7%A7%91%E5%AD%A6%E6%91%B8%E9%B1%BC%E6%8C%87%E5%8D%97-%E6%82%84%E6%91%B8%E5%B8%A6%E8%96%AA%E6%94%B9%E5%96%84%E5%81%A5%E5%BA%B7%E7%8A%B6%E6%80%81-%E8%AE%A9%E8%BF%99%E9%80%BC%E7%8F%AD%E5%84%BF%E4%B8%8A%E7%9A%84%E6%9B%B4%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94/id1742477894?i=1000731034387"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/%E5%AF%B9%E8%AF%9D%E5%8D%97%E9%A6%99%E7%BA%A2-%E4%B8%8A-%E8%A2%AB%E6%8E%A9%E7%9B%96%E7%9A%84%E5%8E%86%E5%8F%B2-%E6%B2%A1%E6%9C%89%E7%BB%93%E6%9D%9F%E7%9A%84%E7%BB%86%E8%8F%8C%E6%88%98-vol-59/id1619041782?i=1000712903258"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/%E5%AF%B9%E8%AF%9D%E5%8D%97%E9%A6%99%E7%BA%A2-%E4%B8%8B-%E8%AE%B0%E5%BD%95%E7%BB%86%E8%8F%8C%E6%88%98-%E7%9C%8B%E8%A7%81%E4%BA%86-%E5%B0%B1%E4%B8%8D%E8%A6%81%E8%83%8C%E8%BF%87%E8%BA%AB%E5%8E%BB-vol-60/id1619041782?i=1000713162949"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lyr5YO6xaDM?si=y1IjsD0upLG_RSO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9DRRs5tCURg?si=6Dqy1fxfqs6jJZzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5l3fHTEF4Q?si=Latu0JrBmfSVXviy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ay1wB-2npMQ?si=BYJ_UB-55pG4W76E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115315459492494&bvid=BV1WaxszZEt3&cid=32835110195&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

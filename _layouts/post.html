@@ -23,48 +23,51 @@ layout: base
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
-	  {% if page.tags %}
-	  <p class="post-tags">
-		{% for tag in page.tags %}
-		  <a href="{{ '/tags/' | append: tag | slugify | append: '/' }}" class="tag-link">#{{ tag }}</a>
-		{% endfor %}
-	  </p>
-{% endif %}
+      {%- endif -%}
+    </p>
 
+    {% if page.tags %}
+    <p class="post-tags">
+      {% for tag in page.tags %}
+        <a href="{{ '/tags/' | append: tag | slugify | append: '/' }}" class="tag-link">#{{ tag }}</a>
+      {% endfor %}
+    </p>
+    {% endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
+  <!-- 🟦 Busuanzi page view counter -->
+  <p id="busuanzi_container_page_pv" style="text-align:center; font-size:0.9em; color:#999; margin-top:2em;">
+    👁️ <span id="busuanzi_value_page_pv">0</span> views
+  </p>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- End Busuanzi -->
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  <a href="{{ '/tags/' | append: tag | slugify | append: '/' | relative_url }}">
-  
-  
-  <div style="display: flex;">
-	<div style="flex: 1; padding-right: 10px;">
-		  <div class="post-navigation">
-		  {% if page.previous %}
-		  <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
-			← Previous Post
-		  </a>
-		  {% endif %}
-		</div>
-	</div>
-	<div style="flex: 1; padding-left: 10px;  text-align: right;">	
-	  {% if page.next %}
-	  <a href="{{ page.next.url }}" title="{{ page.next.title }}">
-		Next Post →
-	  </a>
-	  {% endif %}
-	</div>
-</div>
+  <div style="display: flex; margin-top: 2em;">
+    <div style="flex: 1; padding-right: 10px;">
+      <div class="post-navigation">
+        {% if page.previous %}
+        <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+          ← Previous Post
+        </a>
+        {% endif %}
+      </div>
+    </div>
+    <div style="flex: 1; padding-left: 10px; text-align: right;">  
+      {% if page.next %}
+      <a href="{{ page.next.url }}" title="{{ page.next.title }}">
+        Next Post →
+      </a>
+      {% endif %}
+    </div>
+  </div>
 
-<link rel="stylesheet" href="/assets/css/main.css">
-
-
+  <link rel="stylesheet" href="/assets/css/main.css">
 </article>

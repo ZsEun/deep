@@ -18,6 +18,12 @@ Feb 26, 2025
 
 <a href="" target="_blank" rel="noopener noreferrer">自传</a>
 
-![pic](/image/concert_1.png)
+![pic](/image/png_1.png)
 
+![pic](/image/jpg_1.jpg)
 
+<video width="100%" controls>
+  <source src="https://github.com/ZsEun/ZsEun.github.io/raw/refs/heads/main/image/IMG_0654.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+upload video to githun first to get this src URL

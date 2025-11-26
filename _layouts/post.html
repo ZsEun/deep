@@ -39,22 +39,28 @@ layout: base
     {{ content }}
   </div>
 
-  <!-- 🟦 Busuanzi page view counter -->
-  <p id="busuanzi_container_page_pv" style="text-align:center; font-size:0.9em; color:#999; margin-top:2em;">
+<!-- Bottom-left info block -->
+<div style="text-align:left; margin-top:2em; font-size:0.9em; color:#999;">
+
+  <!-- Viewer Count -->
+  <p id="busuanzi_container_page_pv" style="margin:0;">
     👁️ <span id="busuanzi_value_page_pv">0</span> views
   </p>
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <!-- End Busuanzi -->
-  
-<!-- RSS Subscribe Button (same style as viewer count) -->
-<p style="text-align:center; font-size:0.9em; color:#999; margin-top:0.5em;">
-  <a href="{{ '/feed.xml' | relative_url }}" style="text-decoration:none; color:#ff6600;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg"
-         width="16" style="vertical-align:middle; margin-right:6px;">
-    Subscribe via RSS
-  </a>
-</p>
-<!-- End RSS -->
+
+  <!-- RSS button -->
+  <p style="margin:0.3em 0 0 0;">
+    <a href="{{ '/feed.xml' | relative_url }}" style="text-decoration:none; color:#ff6600;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg"
+           width="16" style="vertical-align:middle; margin-right:6px;">
+      Subscribe via RSS
+    </a>
+  </p>
+
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- End Bottom-left block -->
+
 
 
 

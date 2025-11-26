@@ -45,6 +45,17 @@ layout: base
   </p>
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <!-- End Busuanzi -->
+  
+  <!-- RSS Subscribe Button -->
+	<div style="text-align:center; margin-top: 2em;">
+	  <a href="{{ '/feed.xml' | relative_url }}" style="text-decoration:none; color:#ff6600;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg"
+			 width="22" style="vertical-align:middle; margin-right:6px;">
+		Subscribe via RSS
+	  </a>
+	</div>
+	<!-- End RSS -->
+
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

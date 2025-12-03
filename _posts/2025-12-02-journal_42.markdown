@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "2025我新认识的歌手"
+date:   2025-12-02
+categories: Life
+---
+
+今天apple music出了年终总结。我常听的歌当然一般都是大路货，比如今年的Top artist前三甲分别是Lady Gaga，Twice，和New Jeans。
+不过过去一年我也的确认识了一些之前不知道的歌手，所以就罗列了一下。
+
+下面的歌单是按照我今年的top100排序的，每位歌手只放一首歌，歌手名字后面是apple music给他们分的流派。
+
+<span style="font-weight:bold; color:black;">MARINA</span> Pop
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/princess-of-power/1807308267"></iframe>
+
+<span style="font-weight:bold; color:black;">Sawyer Hill</span> Alternative
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/for-the-hell-of-it/1779524936"></iframe>
+
+<span style="font-weight:bold; color:black;">Mapei</span> Pop 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/trippin/1751763256"></iframe>
+
+<span style="font-weight:bold; color:black;">BUNT.</span> Dance
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/best-day-of-my-life-bunt-version-feat-tom-odell/1823707468"></iframe>
+
+<span style="font-weight:bold; color:black;">Shaboozey</span> Country
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/east-of-the-massanutten/1737086132"></iframe>
+
+<span style="font-weight:bold; color:black;">Still Woozy</span> Pop
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/cooks/1483284065"></iframe>
+
+<span style="font-weight:bold; color:black;">Brittany Howard</span> Alternative
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/samson/1709597248"></iframe>
+
+<span style="font-weight:bold; color:black;">almost monday</span> Alternative
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/cant-slow-down/1746137278"></iframe>
+
+<span style="font-weight:bold; color:black;">Thundercat</span> R&B/Soul
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/them-changes/1197789431"></iframe>
+
+<span style="font-weight:bold; color:black;">Fuzz</span> Alternative
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/whats-in-my-head/687569370"></iframe>
+
+<span style="font-weight:bold; color:black;">The Two Lips</span> Pop
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/still-love-you-todav%C3%ADa/1826149129"></iframe>
+
+<span style="font-weight:bold; color:black;">INJI</span> Pop
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/u-wont/1800815341"></iframe>
+
+<span style="font-weight:bold; color:black;">Beastie Boys</span> Hip-Hop/Rap
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/ch-check-it-out/1467021313"></iframe>
+
+<span style="font-weight:bold; color:black;">Phum Viphurit</span> Alternative
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/lover-boy/1359898709"></iframe>
+
+<span style="font-weight:bold; color:black;">The Cure</span> Alternative
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/friday-im-in-love/301011936"></iframe>
+
+

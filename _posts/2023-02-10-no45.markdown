@@ -106,7 +106,3 @@ Narcissistic, my god, I love it\
 让张元英唱“自恋”还真挺妙的。你们说我做作，但那又如何呢。放眼望去，每个普普通通的山东大妞/河南老乡，心里也都住着一个张元英/水仙花吧，and this deserves to celebrate!\
 Feb 7, 2022
 
-<video width="100%" controls>
-  <source src="https://github.com/ZsEun/ZsEun.github.io/raw/refs/heads/main/image/video_5.MP4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>

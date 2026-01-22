@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "墨西哥城"
+date:   2026-01-20
+categories: Life
+---
+
+![pic](/image/jpeg_5.jpeg)
+
+<video width="100%" controls>
+  <source src="https://github.com/ZsEun/ZsEun.github.io/raw/refs/heads/main/image/IMG_0654.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

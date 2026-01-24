@@ -59,11 +59,24 @@ categories: Life
 第一天晚上我们去看了CMLL，翻译过来应该叫自由摔跤?虽然说起来这不是真正的比赛，只是预先设定好结果的表演，但是观众们看得依旧非常起劲。
 当“正义”的一方叠起罗汉，从高处奋勇一跃扑倒“邪恶”的一方时，全场山呼海啸。
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115951785811850&bvid=BV1uKz2BVECc&cid=35594110890&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe 
+  src="//player.bilibili.com/player.html?isOutside=true&aid=115951785811850&bvid=BV1uKz2BVECc&cid=35594110890&p=1"
+  style="width:100%; aspect-ratio: 16 / 9;"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen="true">
+</iframe>
 
 整个旅行的高光应该是一场墨西哥传统舞蹈表演。舞台搭建在Chapultepec Castle前的广场上，夜幕降临，姑娘和小伙子旋转跳跃，蓬勃的生命力热情洋溢。
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115951785811387&bvid=BV1uKz2BVEe4&cid=35594111703&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe 
+  src="//player.bilibili.com/player.html?isOutside=true&aid=115951785811387&bvid=BV1uKz2BVEe4&cid=35594111703&p=1"
+  style="width:100%; aspect-ratio: 16 / 9;"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen="true">
+</iframe>
+
 
 
 ![pic](/image/jpeg_15.JPEG)

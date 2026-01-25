@@ -152,6 +152,8 @@ Even in winter, the whole city still feels lush and full of green.</p>
   </div>
 </div>
 
+<div style="height: 1.5em; width: 100%;"></div>
+
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
     <!-- Content for the first column goes here -->
@@ -169,6 +171,8 @@ It’s an older residential neighborhood, but very clean, and everywhere you loo
   </div>
 </div>
 
+<div style="height: 1.5em; width: 100%;"></div>
+
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
     <!-- Content for the first column goes here -->
@@ -184,6 +188,8 @@ It’s an older residential neighborhood, but very clean, and everywhere you loo
 	
   </div>
 </div>
+
+<div style="height: 1.5em; width: 100%;"></div>
 
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -201,8 +207,7 @@ It’s an older residential neighborhood, but very clean, and everywhere you loo
   </div>
 </div>
 
-
-
+<div style="height: 1.5em; width: 100%;"></div>
 
 
 ![pic](/image/jpeg_16.JPEG)

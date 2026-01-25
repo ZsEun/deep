@@ -71,6 +71,8 @@ The stone tablet in the photo is carved with Mayan writing. The characters are a
   </div>
 </div>
 
+<div style="height: 1.5em; width: 100%;"></div>
+
 
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -89,6 +91,7 @@ The more I looked at it, the more details I noticed.</p>
   </div>
 </div>
 
+<div style="height: 1.5em; width: 100%;"></div>
 
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">

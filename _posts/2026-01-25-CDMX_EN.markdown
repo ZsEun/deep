@@ -46,58 +46,176 @@ Below, I’ll follow the photos and write about what I saw along the way.
 </div>
 
 
-
-
-
-![pic](/image/jpeg_6.JPEG)
-
-我们在airbnb上请了一位非常棒的讲解
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>我们在airbnb上请了一位非常棒的讲解
 <a href="https://www.airbnb.com/experiences/2859563" target="_blank" rel="noopener noreferrer">Carlos</a>，
 他带我们参观了三个展厅，分别是尤卡坦半岛的玛雅文明、墨西哥城所在的阿兹特克、
 以及墨西哥城郊外的特奧蒂瓦坎。
-图里石碑上刻着的是玛雅文明的文字，方中带圆，我觉得非常可爱。
+图里石碑上刻着的是玛雅文明的文字，方中带圆，我觉得非常可爱。</p>
+	
+	<p>We booked a guide through Airbnb, and he was amazing:
+<a href="https://www.airbnb.com/experiences/2859563" target="_blank" rel="noopener noreferrer">Carlos</a>.
 
-![pic](/image/jpeg_9.JPEG)
+He walked us through three exhibition halls: the Mayan civilization from the Yucatán Peninsula, the Aztecs of the Mexico City region, and Teotihuacan, just outside the city.
 
-展厅里的雕像我都好喜欢，比如这一尊，头和肩都是蛇、戴着人手围城的项链、腰系骷髅腰带、下面又穿着蛇裙，越看发现的东西越多。
+The stone tablet in the photo is carved with Mayan writing. The characters are all squares with circles inside them, and I honestly find them really cute.</p>
 
-![pic](/image/jpeg_10.JPEG)
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_6.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
 
-我们花了四个多小时也不过只看了三个展厅，完全是视觉大享受。
-Carlos说墨西哥城是世界上博物馆数量第二多的城市，仅次于巴黎，下次来希望可以多看几家。
 
-![pic](/image/jpeg_8.JPEG)
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>展厅里的雕像我都好喜欢，比如这一尊，头和肩都是蛇、戴着人手围城的项链、腰系骷髅腰带、下面又穿着蛇裙，越看发现的东西越多。</p>
+	
+	<p>I loved so many of the sculptures in the exhibition. For example, this one — the head and shoulders are snakes, it’s wearing a necklace made of human hands, a belt of skulls around the waist, and a skirt made of snakes.
+The more I looked at it, the more details I noticed.</p>
 
-从展厅里出来，强烈的日光透过树林，花园里仿建了三座玛雅文明的建筑。
-一月的墨西哥城白天大概20度，虽然没那么热，但还是有种身处热带雨林的错觉。
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_9.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
 
-![pic](/image/jpeg_11.JPEG)
 
-说到植被，墨西哥城的很多道路都是图里这样的结构：最中间一条步行/骑车道，外面是一排树，然后是机动车道，再是一排树，路边的人行道，最边上还是树。
-即便是冬天，整个城市依旧绿意盎然。
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>我们花了四个多小时也不过只看了三个展厅，完全是视觉大享受。
+Carlos说墨西哥城是世界上博物馆数量第二多的城市，仅次于巴黎，下次来希望可以多看几家。</p>
+	
+	<p>We spent more than four hours and still only managed to see three exhibition halls. It was a complete visual feast.
+Carlos said that Mexico City has the second largest number of museums in the world, right after Paris. Hopefully next time I can visit a few more.</p>
 
-![pic](/image/jpeg_13.JPEG)
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_10.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
 
-我们住在Condesa，感觉有点像上海的巨富长，虽然是老旧的居民区，但是很干净，遍地都是咖啡馆和小餐厅。
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>从展厅里出来，强烈的日光透过树林，花园里仿建了三座玛雅文明的建筑。
+一月的墨西哥城白天大概20度，虽然没那么热，但还是有种身处热带雨林的错觉。</p>
+	
+	<p>When we walked out of the exhibition halls, strong sunlight was filtering through the trees. In the garden, there were three reconstructed buildings from the Mayan civilization.
+In January, Mexico City is around 20°C during the day. It’s not exactly hot, but standing there, it still felt like being in a tropical rainforest.</p>
 
-![pic](/image/jpeg_17.JPEG)
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_8.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
 
-不仅是公共的道路上植被茂密，连每家每户的阳台上也都郁郁葱葱。
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>说到植被，墨西哥城的很多道路都是图里这样的结构：最中间一条步行/骑车道，外面是一排树，然后是机动车道，再是一排树，路边的人行道，最边上还是树。
+即便是冬天，整个城市依旧绿意盎然。</p>
+	
+	<p>Speaking of greenery, many streets in Mexico City are laid out like the one in the photo:
+a pedestrian/bike path in the very center, then a row of trees, then the car lanes, then another row of trees, then the sidewalk, and finally more trees along the edge.
+Even in winter, the whole city still feels lush and full of green.</p>
 
-![pic](/image/jpeg_14.JPEG)
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_11.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
 
-每天早上都会路过这家开在街心的小花店，鲜艳的色彩让我想起弗里达的画作，好喜欢。
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>我们住在Condesa，感觉有点像上海的巨富长，虽然是老旧的居民区，但是很干净，遍地都是咖啡馆和小餐厅。</p>
+	
+	<p>We stayed in Condesa, and it felt a bit like old town neighborhood in Shanghai.
+It’s an older residential neighborhood, but very clean, and everywhere you look there are cafés and small restaurants.</p>
+
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_13.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>不仅是公共的道路上植被茂密，连每家每户的阳台上也都郁郁葱葱。</p>
+	
+	<p>Not only are the public streets full of greenery, even the balconies of individual homes are lush and overflowing with plants.</p>
+
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_17.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	<p>每天早上都会路过这家开在街心的小花店，鲜艳的色彩让我想起弗里达的画作，好喜欢。</p>
+	
+	<p>Every morning we would pass by this little flower stand in the middle of the street. The bright, vibrant colors always reminded me of Frida Kahlo’s paintings. I loved it so much.</p>
+	
+
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/jpeg_14.JPEG" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
+
+
+
+
 
 ![pic](/image/jpeg_16.JPEG)
 
 弗里达是二十世纪初墨西哥著名的女画家，同时也被视为女权运动的先驱。我们也去了她生活的Coyoacán，这是十六世纪西班牙人在占领墨西哥城之后建造的一个小镇，如今已经和墨西哥城融为一体。
 另外弗里达的丈夫迭戈也是著名的壁画家，上面这张照片是他当年给一家酒店创作的壁画，罗列了墨西哥历史上的重要人物。
 
+Frida was a famous Mexican painter from the early 20th century, and she is also seen as a pioneer of the feminist movement. We visited Coyoacán, where she lived. It was a small town built by the Spanish in the 16th century after they occupied Mexico City, and today it has become fully integrated into the city.
+
+Frida’s husband, Diego Rivera, was also a renowned muralist. The photo above shows a mural he painted for a hotel, depicting many important figures from Mexican history.
+
 ![pic](/image/jpeg_12.JPEG)
 
 第一天晚上我们去看了CMLL，翻译过来应该叫自由摔跤？有点类似赵喜娜参加的WWE。
 虽然说起来这不是真正的比赛，只是预先设定好结果的表演，但是观众们看得依旧非常起劲。
 当“正义”的一方叠起罗汉，从高处奋勇一跃扑倒“邪恶”的一方时，全场山呼海啸。
+
+On the first night, we went to watch CMLL, which is basically Mexican lucha libre, something like WWE (the kind John Cena does).
+Even though everyone knows it’s not a real competition and the outcomes are scripted, the audience was still completely into it.
+When the “good guys” stacked themselves up and leapt from above to take down the “bad guys,” the whole arena erupted in cheers.
 
 <iframe 
   src="//player.bilibili.com/player.html?isOutside=true&aid=115951785811850&bvid=BV1uKz2BVECc&cid=35594110890&p=1"
@@ -110,6 +228,9 @@ Carlos说墨西哥城是世界上博物馆数量第二多的城市，仅次于�
 整个旅行的高光应该是一场墨西哥传统舞蹈表演。舞台搭建在Chapultepec Castle前的广场上，
 夜幕降临，姑娘和小伙子旋转跳跃，蓬勃的生命力热情洋溢。
 
+The highlight of the whole trip was probably a traditional Mexican dance performance.
+The stage was set up in the plaza in front of Chapultepec Castle. As night fell, the dancers spun and leapt across the stage, full of energy and life, their passion almost overflowing.
+
 <iframe 
   src="//player.bilibili.com/player.html?isOutside=true&aid=115951785811387&bvid=BV1uKz2BVEe4&cid=35594111703&p=1"
   style="width:100%; aspect-ratio: 16 / 9;"
@@ -118,16 +239,21 @@ Carlos说墨西哥城是世界上博物馆数量第二多的城市，仅次于�
   allowfullscreen="true">
 </iframe>
 
-（b站的分辨率也太低了）
-
 行程的第三天去了市中心西班牙人建的大教堂。
 在西班牙人到来之前，墨西哥城是一个叫特斯科科湖的巨大湖泊，如今市中心是湖中的一座小岛，上面伫立着原住民建立的阿兹特克帝国首都特诺奇提特兰。
 殖民者到来之后夷平了原住民的金字塔，建造起了大教堂。如今大教堂的旁边还有阿兹特克神庙遗址。
+
+On the third day, we went to the city center to see the cathedral built by the Spanish.
+Before the Spanish arrived, Mexico City was part of a vast lake called Lake Texcoco. What is now downtown used to be a small island in the middle of the lake, where the Indigenous people built the Aztec capital, Tenochtitlan.
+After the colonizers arrived, they tore down the Aztec pyramids and built the cathedral on top of them. Today, right next to the cathedral, you can still see the ruins of the Aztec temples.
 
 ![pic](/image/jpeg_15.JPEG)
 
 我们去的时候广场上摆了上百个造型一致的仙人掌雕塑，请不同艺术家在上面创作。
 因为是最后一天去的，所以我们已经对墨西哥文化有了一些了解，辨认出各种各样的文化符号还挺有成就感的，仿佛和墨西哥真的产生了一点连接。
+
+When we went, there were hundreds of cactus sculptures set up in the plaza, all in the same shape, each one painted or decorated by a different artist.
+Since it was our last day in Mexico City, we had already picked up a bit of understanding of Mexican culture. Being able to recognize all kinds of cultural symbols on the sculptures felt strangely rewarding, like we had finally formed a small but real connection with the place.
  
 ![pic](/image/jpeg_18.JPEG)
 
@@ -137,11 +263,30 @@ Carlos说墨西哥城是世界上博物馆数量第二多的城市，仅次于�
 还比如另一道加了牛油果的鸡汤我觉得非常鲜美。
 而且即使是taco，有些餐厅也会浩浩荡荡摆出五种不同辣度的辣酱供你选择（结果最不辣的那种对我来说都太辣了）。
 
+As for Mexican food, I’m actually not the kind of person who easily goes “wow this is so delicious” about anything.
+But I did have quite a few dishes on this trip that genuinely surprised me.
+
+In the Bay Area, even though there are lots of Mexican restaurants, they often feel kind of similar to me—mostly tacos, fajitas, and that’s about it.
+It wasn’t until I got to Mexico that I really felt how rich and diverse Mexican cuisine actually is (which, in hindsight, is obvious).
+
+For example, Carlos, our museum guide, recommended a traditional soup that was originally made with human meat by Indigenous people, and later replaced with pork.
+And there was another chicken soup with avocado that I found incredibly comforting and flavorful.
+
+Even with something as basic as tacos, some places would line up five different salsas with different levels of spiciness for you to choose from.
+Though honestly, even the “mildest” one was still way too spicy for me.
+
 不过餐厅的价格并不便宜，我感觉跟湾区也差不多了。而且我们去的也不是专供游客的宰客餐厅，看周围的食客也几乎都是本地人，不知道他们是如何承受这样的物价的。
 
+But restaurants weren’t cheap at all. Honestly, the prices felt pretty similar to the Bay Area. And these weren’t tourist traps either—most of the people eating around us were locals. I couldn’t help wondering how they manage to live with prices like this.
+
 说起来我们接触到的当地人并不多，也就是餐厅服务生、Uber司机、在博物馆请的讲解、airbnb的doorman。
-可能是因为我朋友是拉丁裔，所以他没被当外地人，顺带着就把我捎上了，或者是因为我听不懂西班牙语所以一厢情愿，总之我们都感觉当地人都非常友善，而且不是那种职业性的假友善。
+可能是因为Leo是拉丁裔，所以他没被当外地人，顺带着就把我捎上了，或者是因为我听不懂西班牙语所以一厢情愿，总之我们都感觉当地人都非常友善，而且不是那种职业性的假友善。
 即使是没有发生对话，日常走在街上，也能从一些细枝末节里感觉到墨西哥人民的朴实勤劳，第三世界劳动人民大团结的感觉油然而生。
+
+Thinking about it, we didn’t actually interact with that many locals: mostly restaurant staff, Uber drivers, the museum guide we hired, and the doorman at our Airbnb.
+Maybe it was because Leo is Latino, so he didn’t really get treated as an outsider, and I just got carried along with him. Or maybe it was because I don’t understand Spanish and was projecting my own feelings. But either way, we both felt that people were genuinely kind—not that professional, scripted friendliness, but something more natural.
+
+Even without direct conversations, just walking around the city, you could sense it in small details: the simplicity, the hard work, the grounded way people live. It gave me this emotional feeling of solidarity with working people in the so-called Third World.
 
 ![pic](/image/jpeg_19.JPEG)
 
@@ -150,8 +295,25 @@ Carlos说墨西哥城是世界上博物馆数量第二多的城市，仅次于�
 然后是很多车流量很大的路口也没有红绿灯，老城路又窄，高峰期完全堵成一锅粥。
 但即使是赶时间的uber司机面对堵车也很有耐心，有时候还会给别人让路，也很少听到有人鸣笛。这让我对墨西哥人民的好感度又增加了一点。
 
+Another thing that really stood out to me was the traffic in Mexico City.
+First of all, there are a lot of cars, and a big portion of them look like they’re from another century. One Uber we took even had those old-school manual roll-down windows.
+(At the same time, we did spot a few BYD taxis here and there.)
+
+Also, many busy intersections don’t even have traffic lights. The roads in the old city are narrow, so during rush hour everything just turns into a giant mess.
+
+But what surprised me was how patient everyone was. Even Uber drivers who were clearly in a hurry stayed calm in traffic. Sometimes they would even let other cars go first. And I barely heard anyone honk.
+That alone made me like people in Mexico City a little bit more.
+
 当然事情也不可能是十全十美的。
 回程时在机场被告知所有外国人都要额外交大概60美元的建设费，这是旅行中的唯一一件让我觉得有点不舒服的事情。
 今年墨西哥要跟美国和加拿大联合举办世界杯，机场现在的确在大面积维修，不过突然被收钱还是让我有点不爽。
 
+Of course, nothing is ever completely perfect.
+On our way back at the airport, we were told that all foreign travelers had to pay an extra “construction fee” of about 60 dollars. That was probably the only moment during the whole trip that made me feel a bit uncomfortable.
+
+Mexico is hosting the World Cup with the US and Canada this year, and the airport is indeed under major renovation. Still, being asked to pay an extra fee so suddenly didn’t feel great.
+
 以上。在我回来之后，小红书已经在给我推墨西哥永居了...
+
+That’s about it.
+And right after I got back, social media already started pushing me posts about getting permanent residency in Mexico…

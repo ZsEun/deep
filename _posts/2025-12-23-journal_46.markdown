@@ -5,13 +5,13 @@ date:   2025-12-23
 categories: Life
 ---
 
-如果要评选中国人民的老朋友，那我肯定投何伟（Peter Hessler）一票。现在回想一下，大概十年前我读到他的《江城》，这不仅是我读的第一本外国人写中国的书，更是我第一次接触到“非虚构”这个概念。
+如果要评选中国人民的老朋友，那我肯定投何伟（Peter Hessler）一票。现在回想一下，十多年前我读到他的《江城》，这不仅是我读的第一本外国人写中国的书，更是我第一次接触到“非虚构”这个概念。
 从那之后，我又读了他的《甲骨文》、《寻路中国》、《奇石》，他同事Michael Meyer的《再会，老北京》、《东北游记》，他妻子张彤禾Leslie的《打工女孩》。对我来说，这一系列书算是打开了新世界的大门。
 而当我去密苏里上学之后，有一次在youtube上看何伟的演讲，我心想他的口音怎么这么熟悉易懂，结果一查才发现他就是在密苏里长大的，这也算是很牵强的缘分吧哈哈。
 
 这本Other Rivers在2024年出版，主要分成两部分。第一部分讲中国的教育，这也是本书的副标题a Chinese education。何伟从2019年秋天开始在四川大学任教，同时重访了九十年代在涪陵师专教过的学生，
 还作为家长把自己的双胞胎送入成都的公立小学就读，
-书里就以从这三个视角出发写了他对中国教育的观察。书的第二部分就是关于疫情时期的中国了。说实话这部分我读得很慢，也有点难受，因为会想起疫情时的事情。下面的这些摘抄只是书的第一部分，第二部分等我读完再补上。
+书里就以从这三个视角出发写了他对中国教育、改革开放一代以及当下年轻一代的观察。书的第二部分就是关于疫情时期的中国了。说实话这部分我读得很慢，也有点难受，因为会想起疫情时的事情。
 
 ---
 
@@ -161,3 +161,111 @@ characteristics is always moving in the right direction and constantly showing s
 It was appropriate that the term self-confidence was repeated four times in a single sentence. That was a fundamental problem: the Party lacked the confidence necessary to allow young people to think for themselves.
 
 一些在中文里熟视无睹的词，用另一种语言写出来，才觉得很搞笑
+
+<h2>Children of The Corona</h2>
+
+这一章已经是疫情爆发之后了
+
+The school scheduled regular handwashing breaks, and every afternoon an announcement sounded over the intercom: "Temperature-taking time has arrived!" Each day, my daughters had their temperature taken at least five times. This routine began at six thirty a.m., when the parent WeChat group engaged in something called Jielong, or "Connect the Dragon." Dragon connecting was among WeChat's many brilliant innovations for getting Chinese people to engage in high-stress peer-driven data collection for the sake of bureaucracy. Every morning, one designated parent would start the hashtag #Jielong, listing her child's name, student number, and temperature, along with the words "In good health." One by one, other parents jumped in-"Number 21 Li Rongshan, 36.3 degrees, In good health"-lengthening the list with every dragon link. As eight oclock approached, impatient notes were sent to stragglers: "Number 44 Wang Linxin's Mama, please connect the dragon!"
+
+I feared the dragon. Every morning, I straggled in somewhere around the tail, and occasionally I had to be reminded. For a while, I swore to do better; I glued my eyes to the phone at six thirty a.m., fantasizing about finishing as a top-tive dragon connector. But it was impossible; Chinese people were incredibly skilled at this kind of thing, and often there were seven or eight completed dragon links by 6:31. I couldn't type characters fast enough, and if I rushed I made embarrassing foreigner mistakes that were then replicated with each new dragon connection, like an offensive comment on an email chain that keeps bouncing on forever. Finally I gave up and accepted my tail position. The school had informed us that any child with a body temperature of 37.3 degrees or higher had to be tested at a hospital, but I noticed that parents generally reported their kids at 36.6 or lower, so I did the same. I also made sure that Ariel and Natasha had different readings.
+
+My mornings were a mess of fiddling with various health apps, each one designed for a different bureaucratic sinkhole. I was still required to submit my own daily temperature to Sichuan University, along with the outdated promises (I have not had contact with people from Wuhan today.
+I have not had contact...). In addition, a QR code with a health report had to be scanned every morning for each daughter. I often telt over-Whelmed, not to mention a little odd: during the first month of dragon connecting, I received 1,146 WeChat messages listing the body temperatures of third graders.>
+
+对不起但是真的好搞笑
+
+---
+
+At Chengdu Experimental, the school focused on policies that were relatively easy to implement, like the endless temperature checks. I figured that this was probably a way to make parents and children feel safe. Administrators never bothered with more effective but truly disruptive policies-reducing class size, remodeling facilities-because they knew that the virus was not spreading in Chengdu. During my daughters' first month in the classroom, there wasn't a single case from community spread anywhere in the city of sixteen million.
+
+
+<h2>The Sealed City</h2>
+
+2020年夏天，何伟前往武汉的采访
+
+Elsewhere in China, Wuhan's recovery had become a point of national pride. Ariel and Natasha's school gave lessons about Wuhan's protective measures, and in May, during a trip to Hangzhou, I had visited a special exhibit about Wuhan medical workers. But there was nothing in Wuhan itself: no exhibits, no memorials, no propaganda billboards. As far as local cadres were concerned, the recent trauma was as blank as the blue wall in front of the Huanan market.
+
+
+
+---
+
+<h2>Involution</h2>
+
+内卷
+
+The class known as Morality and Rules ostensibly taught schoolchildren to love the Party, but like many of the other minor subjects, it employed a text with a strange hodgepodge of lessons. 
+...
+Regardless, Natasha and Ariel seemed to ignore all of it. By fourth grade, they had learned the most important lesson that Morality and Rules has to offer, which is that Morality and Rules is the least important academic class in a Chinese school.
+After the twins noticed classmates using the period to surreptitiously catch up on other homework, they did the same. Ariel told me that she kept the Morality and Rules text open with her math book inside. She also used the period to zoushen, a term that translates directly as "the spirit walks away"-to daydream. My Sichuan University students described similar activities in their own mandatory political courses.
+
+It was one of many mixed lessons in a Chinese school. When politics is omnipresent, it becomes a kind of background noise, and students learn to tune it out. The cadres hoped to create a patriotic younger gen-eration, and there seemed to have been success with the Little Pinks. But my impression was that a much larger percentage of young Chinese chose to disengage entirely from politics. It probably wasn't unintentional: for the Party, creating a large cohort of apolitical children wasn't the worst possible outcome of Morality and Rules.
+
+
+---
+
+The best students in a Chinese class also tend to be the most popular, which was part of what motivated Ariel and Natasha. The things that might be important for popularity in America—athletics, social dominance, being cool—mean very little in a Chinese classroom.
+
+During the fall, Natasha became the first of the twins to serve as xiao zuzhang, a small-group leader. Soon Ariel was also granted the honor. It clearly made them proud, but I could also see that small-group leadership was basically unpleasant. Xiao zuzhang had the responsibility of deducting points for bad behavior, and they also corralled homework and in-class assignments. Periodically, teachers organized head-to-head competitions between small groups, which then recited Tang poetry or solved rapid-fire math equations. It was stressful to be in charge of a group, and we told the twins that they could simply decline the posi-tion. But the honor meant too much. The Party failed miserably every time it attempted to indoctrinate Natasha and Ariel with clumsy pro-paganda, but the system was far more successful with competitions
+and titles.
+
+---
+
+On the whole, the kids seemed remarkably well-adjusted. We organized occasional get-togethers of a dozen or so girl classmates at our apartment, and the group dynamics were different from what I had observed among American girls of similar age. The Chengdu students didn't form cliques or deliberately exclude others, and there was never any mean-girl drama. In part, this seemed to reflect the fact that Chinese girls of ten or eleven typically don't engage in the kind of preteen behavior that is common in America. And the cultural emphasis on the group means that Chinese children learn to compromise and accommodate.
+Despite the fact that most kids had no siblings, they didn't behave like spoiled brats.
+
+下面有请小程序给大家带来她的专辑Brat!
+
+---
+
+In my second year, I surveyed more than sixty students about whether they believed the gaokao and the college-admissions process should be significantly changed. A clear majority- 61 percent-favored retaining
+the system. ... In this and in many other issues, the students impressed me as realists. These only children weren't spoiled, but they also weren't fresh-faced and wide-eyed. They seemed to believe that the world was too flawed for idealism, and they accepted the fact that childhood included large amounts of stress and grinding work.
+
+...
+
+My own response was also contradictory. Sarinstein's conclusion might be dispiriting, but the clarity of his analysis was remarkable. Despite being a physics major, he wrote better in English than most Amer ican college students. I admired the discipline and tough-mindedness of such students, and I had to respect the system that had produced them.
+But I also sympathized with their fatalistic view of competition and achievement. They often spoke of neijuan, or "involution," which had become a touchstone term for their generation. Involution refers to a point at which intense competition produces diminishing returns—one friend described it as the sensation of running on a hamster wheel.
+
+Helplessness was part of the feeling. Students recognized how much effort they wasted on things like the Hengshui font, but they also believed that ifthis or any other aspect of the exam were reformed, it would be replaced by something else that was equally competitive and drain-ing. In one in-class debate, a first-year student argued that admissions offices should also consider extracurricular activities like volunteer work.
+After he was finished, a classmate stood up to give a counterargument.
+"If you add volunteer work, then you are just adding more things and you are adding more pressure," he said. "If you do one hundred hours of volunteer work, then I'll do two hundred. And then you'll do three hundred." 
+
+During my second year, I surveyed more than sixty students about the pressures they had felt during high school. When I asked if they had suffered from stress, 75 percent said yes. For the next question-Did your parents put too much pressure on you?—the response was virtually the opposite: 78 percent said no. This also seemed characteristic: these students recognized the flaws in the system, but they didn't blame anybody for creating or perpetuating this system. They rarely exhibited the young rebel's desire to tear down the world of his parents.
+
+...
+
+In truth, the bedrock faith of their generation was competi-tion. People who grew up during the Reform years believed in striving, and they believed in self-improvement. In a fast-changing world, competition provided both structure and meaning, process and outcome. It wasn't much different from baoying, karmic retribution. This was the agency of individuals like Anry and Youngsea: they believed that decisions have consequences, and that people often get what they deserve.
+As with many faiths, the respect for competition was passed on to the next generation, which was one reason why my Sichuan University students were so tolerant of the gaokao and other brutal educational prac-tices. They complained about involution, but deep inside they believed the same thing as their parents: that the world was made for strivers.
+
+...
+
+In my opinion, this was one of the biggest differences between China and the United States. In China, the intensely competitive environment seemed standard across all groups: trom elite to lower class, from childhood to middle age.
+ 
+---
+ 
+Like girls around the world, Natasha and Ariel listened to Taylor Swift. They acquired information about the singer inside the firewall, on Mandarin websites, and for searches they used her Chinese nickname:
+Mei Mei. But this wasn't the mei that means younger sister, or the mei that means beautiful. For Swift, the Chinese used a more obscure mei:
+"mold, mildew." This also seemed characteristically Chinese, a way of cutting to the chase: the singer might be young and beautiful, but she often sang about love gone bad.
+
+笑死这真的是霉霉的由来吗
+
+---
+
+In the various fictional dystopias that became twentieth-century classics, there were different ways of controlling and distracting citi-zens. In 1984, the authoritarian state depends on continuous war and rewritten history, while Brave New World uses sex and the drug called soma. In We, the early Russian novel, a regime employs the surgical removal of human imagination. But none of these futuristic stories anticipated what the People's Republic would become in the twenty-first century. There was no fictional world that combined authoritarianism and censorship with economic success, freedom of movement, and improved education. And no novelist had predicted how useful competition can be in a repressive state. For most of my students, the greatest fear wasn't surveillance cameras, or revised history, or any of the other instruments that are typically associated with state control. The students feared one another-they worried about all the other talented young people who were also striving for grades and jobs. When competition becomes as powerful as faith, it also functions, in Marxist terms, as an opium of the people. Most young Chinese I knew were too numbed and too distracted by the struggle for success to think hard about the big picture.
+
+有点盖棺定论一锤定音的感觉了
+
+---
+
+From Fuling to Chengdu, from 1996 to 2021, one thing that didn't change was my feeling toward the people I taught. I had great faith in them-I admired their diligence and their toughness, and I sympathized with their struggles. Each generation had inherited a system for which they were blameless, and they did the best they could with what they had. But the challenges for a young person in the 1990s, although formidable, had also been clear-cut and attainable: get educated, move to the city, escape poverty. Thirty years later, the problem runs deeper: something fundamental about the system needs to change. I still have great faith in the young, but I sense that their future will be more complicated.
+
+我发现我在读的时候也画线了很多有关习近平的内容，但是当我整理笔记的时候，我更关心的是何伟对青年本身的观察，这是切肤之痛，习近平只要去死就行了。
+
+
+
+
+
+
+
+ 
+

@@ -2,7 +2,7 @@
 layout: post
 title:  "一忙起来就脑袋空空"
 date:   2025-06-06
-categories: Life
+categories: 生活
 ---
 
 最近一周都没有再更新。

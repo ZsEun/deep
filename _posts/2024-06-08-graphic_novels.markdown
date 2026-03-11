@@ -2,7 +2,7 @@
 layout: post
 title:  "Graphic novels from the Mountain View public library"
 date:   2024-06-08
-categories: Culture
+categories: 读书
 published: false
 ---
 

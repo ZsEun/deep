@@ -2,7 +2,7 @@
 layout: post
 title:  "辞旧迎新的一些小事"
 date:   2024-01-08
-categories: Life
+categories: [生活, 瞎想]
 ---
 ![pic](/image/new_year_1.jpg)
 

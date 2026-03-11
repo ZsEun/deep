@@ -2,7 +2,7 @@
 layout: post
 title:  "2024的一些小事"
 date:   2025-01-15
-categories: Life
+categories: [生活, 瞎想]
 ---
 
 

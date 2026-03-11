@@ -2,7 +2,7 @@
 layout: post
 title:  "《许子东细读张爱玲》摘抄"
 date:   2024-11-25
-categories: Read
+categories: 读书
 ---
 ![pic](/image/chang_1.jpg)
 

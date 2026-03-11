@@ -2,7 +2,8 @@
 layout: post
 title:  "图说中国绘画史：山水"
 date:   2024-03-30
-categories: Culture
+categories: [读书, 文化]
+
 
 ---
 

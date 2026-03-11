@@ -2,7 +2,7 @@
 layout: post
 title:  "最近半年看的几本书"
 date:   2023-08-04
-categories: Life
+categories: 读书
 ---
 
 ![pic](/image/jpg_19.jpg)

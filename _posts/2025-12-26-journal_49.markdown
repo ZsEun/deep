@@ -2,8 +2,7 @@
 layout: post
 title:  "年末看了很多电影"
 date:   2025-12-28
-categories: Life
-published: false
+categories: 影视
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYcgQMxQwmk?si=_bf-kkvO4khFz8Wl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ layout: base
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+    <p class="post-meta" style="margin:0;">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
@@ -27,7 +27,7 @@ layout: base
     </p>
 
     {% if page.tags %}
-    <p class="post-tags">
+    <p class="post-tags" style="margin:0;">
       {% for tag in page.tags %}
         <a href="{{ '/tags/' | append: tag | slugify | append: '/' }}" class="tag-link">#{{ tag }}</a>
       {% endfor %}
@@ -35,10 +35,9 @@ layout: base
     {% endif %}
 
     {% if page.categories and page.categories.size > 0 %}
-    <p class="post-categories">
-      Category:
+    <p class="post-categories" style="font-size: 0.9em; color: #828282; margin: 0.3em 0 0 0;">
       {% for category in page.categories %}
-        <span class="tag-link">{{ category }}</span>{% unless forloop.last %}, {% endunless %}
+        <a href="{{ '/tags/' | append: category | downcase | replace: ' ', '-' | append: '/' | relative_url }}" style="text-decoration:none; color: #828282;">#{{ category }}</a>
       {% endfor %}
     </p>
     {% endif %}
@@ -56,15 +55,6 @@ layout: base
     👁️ <span id="busuanzi_value_page_pv">0</span> views
   </p>
 
-  <!-- RSS button -->
-  <p style="margin:0.3em 0 0 0;">
-    <a href="{{ '/feed.xml' | relative_url }}" style="text-decoration:none; color:#ff6600;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg"
-           width="16" style="vertical-align:middle; margin-right:6px;">
-      Subscribe via RSS
-    </a>
-  </p>
-
 </div>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -76,7 +66,7 @@ layout: base
     {% assign related_posts = site.categories[primary_category] | where_exp: "post", "post.url != page.url" %}
     {% if related_posts.size > 0 %}
     <section class="related-posts" style="margin-top:2.5em;">
-      <h3>More recent posts in {{ primary_category }}</h3>
+      <h3>More similar posts</h3>
       <ul>
         {% for post in related_posts limit:3 %}
           <li>
@@ -99,7 +89,7 @@ layout: base
     <div style="flex: 1; padding-right: 10px;">
       <div class="post-navigation">
         {% if page.previous %}
-        <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+        <a href="{{ page.previous.url | relative_url }}" title="{{ page.previous.title }}">
           ← Previous Post
         </a>
         {% endif %}
@@ -107,7 +97,7 @@ layout: base
     </div>
     <div style="flex: 1; padding-left: 10px; text-align: right;">  
       {% if page.next %}
-      <a href="{{ page.next.url }}" title="{{ page.next.title }}">
+      <a href="{{ page.next.url | relative_url }}" title="{{ page.next.title }}">
         Next Post →
       </a>
       {% endif %}
@@ -116,4 +106,3 @@ layout: base
 
   <link rel="stylesheet" href="/assets/css/main.css">
 </article>
-EOF

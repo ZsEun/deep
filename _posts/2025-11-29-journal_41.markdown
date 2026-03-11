@@ -2,7 +2,7 @@
 layout: post
 title:  "女性，战争与回忆：三十五位重庆妇女的抗战讲述"
 date:   2025-11-29
-categories: Life
+categories: 读书
 ---
 
 ![pic](/image/jpg_16.jpg)

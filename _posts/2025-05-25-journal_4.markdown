@@ -3,6 +3,7 @@ layout: post
 title:  "The Last of Us Season 2"
 date:   2025-05-26
 categories: 影视
+featured: true
 ---
 
 The last of us第二季昨天完结了。我是开播之前先一口气补完了第一季，然后每周追更第二季。

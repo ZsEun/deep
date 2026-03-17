@@ -3,6 +3,7 @@ layout: post
 title:  "上班就是压制与反压制"
 date:   2025-08-14
 categories: 工作
+featured: true
 ---
 
 昨天开组会的时候，manager N突然提到那天早晨我发的一封push EE的邮件，说I'm superised he pushed them very hard. 

@@ -3,6 +3,7 @@ layout: post
 title:  "A very punchable face"
 date:   2025-11-25
 categories: 读书
+featured: true
 ---
 
 上周听完了这本Colin Jost在2020年出版的回忆录，有声书也是由他本人朗读的。

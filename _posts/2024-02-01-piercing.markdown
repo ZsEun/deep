@@ -3,6 +3,7 @@ layout: post
 title:  "打了个耳洞"
 date:   2024-01-30
 categories: 生活
+featured: true
 ---
 
 我一直都觉得自己将来肯定会穿孔和纹身。目前并没有什么想纹的图案，但最近几个月的确越来越想打耳洞了。上周六下午闲着没事，突然想起来这事，火速找了一个piercing studio就去了。

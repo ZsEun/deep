@@ -3,6 +3,7 @@ layout: post
 title:  "Perfect Blue：双重束缚"
 date:   2025-10-15
 categories: 影视
+featured: true
 ---
 
 一晃已经有两个月没有写博客了，主要是因为九月回国待了一个月，期间经历了H1B政策乌龙的惊魂周末。九月底回来之后搬家，上周末又去了一趟LA。

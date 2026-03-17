@@ -3,6 +3,7 @@ layout: post
 title:  "《厌女》摘抄"
 date:   2024-11-09
 categories: [政治, 读书]
+featured: true
 ---
 
 ![pic](/image/misogyny_1.PNG)

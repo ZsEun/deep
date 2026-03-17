@@ -3,6 +3,7 @@ layout: post
 title:  "月度采样#8"
 date:   2022-08-26
 categories: 生活
+featured: true
 ---
 
 本期key words：WTA比赛，攀岩，优胜美地。

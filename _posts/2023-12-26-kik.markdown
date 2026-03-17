@@ -3,6 +3,7 @@ layout: post
 title:  "魔女宅急便"
 date:   2023-12-26
 categories: 影视
+featured: true
 ---
 
 这周看了两部电影，《魔女宅急便》和《天才捕手》，现在先写第一部。

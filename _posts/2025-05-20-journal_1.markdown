@@ -3,6 +3,7 @@ layout: post
 title:  "猴哥你真了不得"
 date:   2025-05-20
 categories: 生活
+featured: true
 ---
 
 看到<a href="https://cbvivi.today/" target="_blank" rel="noopener noreferrer">cbvivi</a>

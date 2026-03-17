@@ -3,6 +3,7 @@ layout: post
 title:  "圣诞节"
 date:   2017-12-14
 categories: [瞎想, 哈利波特]
+featured: true
 ---
 想起来哈利波特里关于圣诞节的两个片段
 

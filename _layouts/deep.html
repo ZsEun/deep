@@ -10,9 +10,8 @@ layout: base
   {{ content }}
 
   <!-- Tag Cloud -->
-  {%- assign featured_posts = site.posts | where: "featured", true -%}
   {%- assign all_tags = "" | split: "" -%}
-  {%- for post in featured_posts -%}
+  {%- for post in site.posts -%}
     {%- if post.tags -%}
       {%- for tag in post.tags -%}
         {%- assign all_tags = all_tags | push: tag -%}
@@ -59,9 +58,9 @@ layout: base
   {%- endif -%}
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts | where: "featured", true %}
+    {% assign posts = paginator.posts %}
   {% else %}
-    {% assign posts = site.posts | where: "featured", true %}
+    {% assign posts = site.posts %}
   {% endif %}
 
 

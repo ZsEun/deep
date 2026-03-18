@@ -3,6 +3,8 @@ layout: post
 title:  "最近读的几本书"
 date:   2026-03-15
 categories: [读书]
+featured: false
+draft: false
 ---
 
 <h2>《去他的巴西》</h2>

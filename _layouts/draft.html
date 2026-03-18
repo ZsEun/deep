@@ -9,16 +9,10 @@ layout: base
 
   {{ content }}
 
-  <!-- Tag Cloud -->
-  {%- assign all_featured = site.posts | where: "featured", true -%}
-  {%- assign featured_posts = "" | split: "" -%}
-  {%- for post in all_featured -%}
-    {%- unless post.draft == true -%}
-      {%- assign featured_posts = featured_posts | push: post -%}
-    {%- endunless -%}
-  {%- endfor -%}
+  <!-- Tag Cloud (draft posts only) -->
+  {%- assign draft_posts = site.posts | where: "draft", true -%}
   {%- assign all_tags = "" | split: "" -%}
-  {%- for post in featured_posts -%}
+  {%- for post in draft_posts -%}
     {%- if post.tags -%}
       {%- for tag in post.tags -%}
         {%- assign all_tags = all_tags | push: tag -%}
@@ -64,13 +58,7 @@ layout: base
     </div>
   {%- endif -%}
 
-  {% assign all_paged = site.posts | where: "featured", true %}
-  {% assign posts = "" | split: "" %}
-  {% for post in all_paged %}
-    {% unless post.draft == true %}
-      {% assign posts = posts | push: post %}
-    {% endunless %}
-  {% endfor %}
+  {% assign posts = site.posts | where: "draft", true %}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}

@@ -3,6 +3,9 @@ layout: post
 title:  "Other Rivers"
 date:   2025-12-23
 categories: [政治, 读书]
+featured: false
+published: true
+draft: false
 ---
 
 如果要评选中国人民的老朋友，那我肯定投何伟（Peter Hessler）一票。现在回想一下，十多年前我读到他的《江城》，这不仅是我读的第一本外国人写中国的书，更是我第一次接触到“非虚构”这个概念。

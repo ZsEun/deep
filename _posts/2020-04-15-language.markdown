@@ -4,6 +4,7 @@ title:  "语言和思维"
 date:   2020-04-15
 categories: [文化, 瞎想]
 featured: false
+draft: false
 ---
 【1】
 

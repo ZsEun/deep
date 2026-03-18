@@ -4,6 +4,8 @@ title:  "朋友之间多分享点开心事"
 date:   2025-07-20
 categories: 生活
 featured: true
+published: true
+draft: false
 ---
 
 今天跟Leo的几个朋友吃饭，虽然我跟他们是第一次见面，但是席间有几个E人来不断创造话题，其他人也顺势跟上，调侃的，附和的，哈哈大笑的，感觉很轻松。

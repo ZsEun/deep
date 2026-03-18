@@ -3,7 +3,8 @@ layout: post
 title:  "向胆固醇宣战！"
 date:   2025-06-30
 categories: Life
-published: false
+featured: false
+draft: true
 ---
 
 基本原则：

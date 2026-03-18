@@ -3,8 +3,10 @@ layout: post
 title:  "我听歌"
 date:   2025-03-15
 categories: Life
-published: false
 tags: [movie]
+featured: false
+published: false
+draft: false
 ---
 
 Jekyll

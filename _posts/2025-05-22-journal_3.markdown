@@ -4,6 +4,7 @@ title:  "学会了讲故事，人类才能进步"
 date:   2025-05-22
 categories: [生活, 瞎想]
 featured: true
+draft: false
 ---
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/bbffmf74-%E5%81%B7%E5%90%83%E8%A2%AB%E6%8A%93%E5%88%B0%E8%AA%AA%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%9C%89%E9%80%99%E4%B8%80%E6%AC%A1/id1584259367?i=1000708886160"></iframe>

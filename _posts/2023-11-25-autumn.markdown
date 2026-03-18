@@ -4,6 +4,7 @@ title:  "秋天的一些小事"
 date:   2023-11-25
 categories: [生活, 瞎想]
 featured: true
+draft: false
 ---
 
 微信唯一做对的事就是不显示已读，否则全国的焦虑指数都得提升一大截。\

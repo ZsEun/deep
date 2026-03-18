@@ -4,6 +4,7 @@ title:  "树上的男爵"
 date:   2025-05-30
 categories: 读书
 featured: true
+draft: false
 ---
 
 最近刚看完这本书，如果想要了解故事梗概的话，可以听这两期播客：

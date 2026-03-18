@@ -4,6 +4,7 @@ title:  "做狗也不容易"
 date:   2025-06-02
 categories: 爱好
 featured: true
+draft: false
 ---
 
 上周六体验了一次hot yoga，就是字面意思，在一个很热的房间里做瑜伽。

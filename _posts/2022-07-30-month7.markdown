@@ -4,6 +4,7 @@ title:  "月度采样#7"
 date:   2022-07-30
 categories: 生活
 featured: true
+draft: false
 ---
 
 本期key words：攀岩，hiking，羽毛球，温网，男排VNL，宣美，娜琏，老友记，昨日的美食，莫须有，三番

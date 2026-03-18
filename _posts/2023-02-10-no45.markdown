@@ -4,6 +4,7 @@ title:  "一些小事"
 date:   2023-02-10
 categories: [生活, 瞎想]
 featured: true
+draft: false
 ---
 
 ![pic](/image/jpg_37.jpg)

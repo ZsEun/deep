@@ -2,7 +2,10 @@
 layout: post
 title:  "一月跟chatgpt聊了什么"
 date:   2026-02-04
-categories: Life
+categories: 生活
+featured: false
+published: true
+draft: false
 ---
 
 <h3>旅行与城市规划（欧洲 & 城市体验）</h3>

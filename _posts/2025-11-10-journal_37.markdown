@@ -2,7 +2,10 @@
 layout: post
 title:  "我学葡萄牙语"
 date:   2025-11-10
-categories: Life
+categories: 爱好
+featured: false
+published: true
+draft: false
 ---
 
 其实我从今年元旦那天就正式开始学葡萄牙语了，但是上半年都断断续续地，直到这个月开始才认真起来。

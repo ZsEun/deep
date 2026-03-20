@@ -2,7 +2,9 @@
 layout: post
 title:  "即将迎来春天的一些小事"
 date:   2024-03-10
-categories: Life
+categories: [生活, 瞎想]
+featured: true
+draft: false
 ---
 
 一直在下雨，现在周末看到窗外的阳光，如果不出去的话就会觉得很可惜\

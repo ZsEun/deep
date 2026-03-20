@@ -2,7 +2,9 @@
 layout: post
 title:  "月度采样#9"
 date:   2022-10-01
-categories: Life
+categories: 生活
+featured: true
+draft: false
 ---
 
 如果多年以后再提起这个九月，我可能会有两种描述。一种会说它是“实习完等offer然后来回讨价还价的那个月”，另一种会说它是“小威和费德勒先后退役的那个月”。

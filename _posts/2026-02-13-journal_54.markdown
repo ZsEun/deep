@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "去了趟ER"
+date:   2026-02-13
+categories: 生活
+featured: false
+published: true
+draft: false
+---
+
+昨天早晨起床之后就有点胸闷，不是持续性的，只是偶尔突然一下子觉得喘不上来，一两秒之后就恢复了。白天在公司倒把这事给忘了，也没什么异常。但是晚上回家之后，那种胸口憋着一股气的感觉又回来了，当时就有点担心。
+
+今天早晨一起床，胸闷的感觉更明显了，而且已经从短暂性变成持续性的了，于是决定去urgent care或者ER。其实也不太确定该不该去，主要是去年看了一个医疗剧PITT，让我觉得ER永远人满为患，像我这种没什么太明显症状的情况可能会等很久。
+
+九点多真到了之后，发现其实候诊区根本没多少人，很快就轮到我了。先是护士给我做了个心电图，然后医生过来跟我说结果正常，但是为了以防万一还是再做一下血检和X光。这两项检查做完之后的确花了很长时间等结果出来，中间又有护士来给我又测了一遍血压血氧。到十二点医生跟我说没发现任何问题，我就回来了。
+
+不过的确有一些细节跟PITT里很像。首先是所有医生和护士都很有耐心，比如我坐在椅子上，急诊医生风风火火走过来之后不是站着跟我说话，而是蹲下来仰着头问我的症状。我俯视她的时候都有点不好意思，怀疑自己因为一点症状就来增加他们工作量是不是有点太兴师动众了。试想一下，我花了那么多时间那么多钱读medical school，最后像服务员一样面对普罗大众，工资也没多少，这得多有爱心啊。
+
+另外，当我在候诊大厅等结果的时候，也看到有一个女性social worker在帮一个老年homeless打电话联系照护机构，这跟电视剧里的剧情也很像。还有华人老夫妻来急诊，护士就会推一个屏幕过来，远程跟一个翻译一起工作，她说英文，翻译再用中文跟华人老爷爷沟通。有一对年轻的小夫妻应该也不会英语，但是远程葡萄牙语翻译不在，护士又专门找了个会葡语的另一个护士过来跟他们交流。总之让我感觉整个急诊室的氛围都非常有社会大同的感觉。
+
+不过我的胸闷还是一阵一阵的。今天的检查只是排除了危及生命的可能，将来如果再出现这种症状就约家庭医生吧。以及默默等待今天的账单，希望保险多报一点...
+
+---
+
+2/10 更新，收到医院账单了，原价$15k，保险报销完之后我还要付1900，欲哭无泪啊，开始研究账单去了
+
+Yesterday morning, I woke up with a bit of chest tightness. It wasn’t constant — just occasional moments where I suddenly felt like I couldn’t quite catch my breath, and then after a second or two it would pass. During the day at work I more or less forgot about it and didn’t notice anything unusual. But in the evening, after I got home, that “something stuck in my chest” feeling came back, and that’s when I started to feel a little worried.
+
+This morning, as soon as I woke up, the chest tightness was more obvious — and this time it wasn’t intermittent anymore, it felt continuous. So I decided to go to urgent care, or maybe the ER. I wasn’t even sure whether I should go. Mostly because I watched a medical drama last year called PITT, which made the ER feel like a permanently overcrowded place, and I figured someone like me, with no dramatic symptoms, would probably wait forever.
+
+But when I actually arrived around nine, the waiting area was almost empty, and I was seen pretty quickly. A nurse did an EKG first, then the doctor came over and told me it looked normal. Just to be safe, they ordered blood work and an X-ray. Those tests did take a long time to come back, and in the meantime another nurse came by to check my blood pressure and oxygen levels again. Around noon, the doctor told me everything looked fine, and I was sent home.
+
+Some details really did feel straight out of PITT, though. For one, everyone — doctors and nurses alike — was incredibly patient. When the ER doctor came over to talk to me, instead of standing, she squatted down in front of me and looked up while asking about my symptoms. I actually felt a little embarrassed looking down at her, wondering if I’d made too big a deal out of something minor and added to their workload for no good reason. I mean, imagine spending that much time and money going through medical school, only to end up caring for the general public like this, for not-that-great pay. It really takes a lot of compassion.
+
+While I was waiting in the lobby for my results, I also saw a female social worker helping an elderly homeless man make phone calls to care facilities — again, very much like something you’d see on TV. There was also an older Chinese couple in the ER, and the nurse rolled over a screen to connect with a remote interpreter: she spoke in English, and the interpreter translated into Chinese for the elderly man. A young couple nearby didn’t seem to speak English either, and since a Portuguese interpreter wasn’t immediately available, the nurse went to find another nurse who spoke Portuguese to help them out. Altogether, the ER felt super humane. Almost like a tiny model of an ideal, inclusive society.
+
+That said, the chest tightness still comes and goes. Today’s tests only ruled out anything immediately life-threatening. If it happens again, I’ll make an appointment with my primary care doctor.
+
+And now, quietly, I wait for the bill — hoping insurance covers as much of it as possible.

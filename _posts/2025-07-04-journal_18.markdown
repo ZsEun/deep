@@ -2,7 +2,9 @@
 layout: post
 title:  "没必要执着于确定"
 date:   2025-07-04
-categories: Life
+categories: 工作
+featured: true
+draft: false
 ---
 
 最近切实存在的一个问题就是，我怀疑自己有点burn out。

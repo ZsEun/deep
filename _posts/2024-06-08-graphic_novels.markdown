@@ -2,8 +2,9 @@
 layout: post
 title:  "Graphic novels from the Mountain View public library"
 date:   2024-06-08
-categories: Culture
-published: false
+categories: 读书
+featured: false
+draft: true
 ---
 
 <h3>Can't we talk about something more pleasant?</h3>

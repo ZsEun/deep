@@ -2,7 +2,9 @@
 layout: post
 title:  "《借东西的小人阿莉埃蒂》"
 date:   2025-06-26
-categories: Life
+categories: 影视
+featured: true
+draft: false
 ---
 
 上周末在电影院看了吉卜力工作室在2010年推出的电影《借东西的小人阿莉埃蒂》。

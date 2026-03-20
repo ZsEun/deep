@@ -2,7 +2,9 @@
 layout: post
 title:  "2025奥斯卡最佳短片：动画片、纪录片、故事片"
 date:   2025-03-01
-categories: Culture
+categories: 影视
+featured: true
+draft: false
 ---
 
 机缘巧合，我看到有发行方把今年奥斯卡提名的最佳动画短片、最佳纪录短片、以及最佳真人短片分别整合成了三部电影，带到电影院上映。

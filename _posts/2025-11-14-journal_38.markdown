@@ -2,7 +2,10 @@
 layout: post
 title:  "几则感想"
 date:   2025-11-14
-categories: Life
+categories: [攀岩, 瞎想, 斯普拉遁]
+featured: true
+published: true
+draft: false
 ---
 
 <h3>模糊的主语</h3>

@@ -2,7 +2,10 @@
 layout: post
 title:  "浪游记快S6：CDMX"
 date:   2026-01-25
-categories: Life
+categories: 旅行
+featured: true
+published: true
+draft: false
 ---
 
 自从2023年开车往返密苏里和加州之后，我就没有再出过远门了，最多就是在加州内部去一下LA、Tahoe，

@@ -1,0 +1,61 @@
+{% comment %}
+  Client-side pagination for post lists.
+  Include this after the <ul class="post-list"> block.
+  Set `include.per_page` to control items per page (default: 10).
+{% endcomment %}
+
+{% assign per_page = include.per_page | default: 10 %}
+
+<nav class="pagination-nav" aria-label="Page navigation" style="margin-top: 1.5em; text-align: center; display: none;">
+  <button class="pagination-btn pagination-prev" onclick="paginateTo('prev')" style="padding: 0.4em 1em; margin: 0 0.3em; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer; color: #333;">← Newer</button>
+  <span class="pagination-info" style="margin: 0 0.8em; color: #666;"></span>
+  <button class="pagination-btn pagination-next" onclick="paginateTo('next')" style="padding: 0.4em 1em; margin: 0 0.3em; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer; color: #333;">Older →</button>
+</nav>
+
+<script>
+(function() {
+  var PER_PAGE = {{ per_page }};
+  var items = document.querySelectorAll('.post-list > li');
+  var total = items.length;
+  var totalPages = Math.ceil(total / PER_PAGE);
+  var currentPage = 1;
+
+  // Read page from URL hash
+  var hash = window.location.hash;
+  if (hash && hash.match(/^#page-(\d+)$/)) {
+    var p = parseInt(hash.replace('#page-', ''), 10);
+    if (p >= 1 && p <= totalPages) currentPage = p;
+  }
+
+  function showPage(page) {
+    currentPage = page;
+    var start = (page - 1) * PER_PAGE;
+    var end = start + PER_PAGE;
+    for (var i = 0; i < total; i++) {
+      items[i].style.display = (i >= start && i < end) ? '' : 'none';
+    }
+    var nav = document.querySelector('.pagination-nav');
+    var info = document.querySelector('.pagination-info');
+    var prevBtn = document.querySelector('.pagination-prev');
+    var nextBtn = document.querySelector('.pagination-next');
+
+    if (totalPages > 1) {
+      nav.style.display = 'block';
+      info.textContent = 'Page ' + page + ' / ' + totalPages;
+      prevBtn.disabled = (page <= 1);
+      prevBtn.style.opacity = (page <= 1) ? '0.4' : '1';
+      nextBtn.disabled = (page >= totalPages);
+      nextBtn.style.opacity = (page >= totalPages) ? '0.4' : '1';
+    }
+    window.location.hash = 'page-' + page;
+    if (page > 1) window.scrollTo(0, 0);
+  }
+
+  window.paginateTo = function(dir) {
+    if (dir === 'prev' && currentPage > 1) showPage(currentPage - 1);
+    else if (dir === 'next' && currentPage < totalPages) showPage(currentPage + 1);
+  };
+
+  if (total > 0) showPage(currentPage);
+})();
+</script>

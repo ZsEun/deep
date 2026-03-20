@@ -2,7 +2,10 @@
 layout: post
 title:  "十二月跟chatgpt聊了什么"
 date:   2025-12-31
-categories: Life
+categories: 生活
+featured: false
+published: true
+draft: false
 ---
 
 前段时间chatgpt的那个年终总结出来，我才意识到其实chatgpt现在已经取代了google，成为了我最重要的搜索引擎。

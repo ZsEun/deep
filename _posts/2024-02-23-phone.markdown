@@ -3,7 +3,8 @@ layout: post
 title:  "手机桌面2024"
 date:   2024-02-23
 categories: Life
-published: false
+featured: false
+draft: true
 ---
 
 手机已经算是我看世界的第二双眼睛了，所以觉得定期记录一下

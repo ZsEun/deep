@@ -8,10 +8,24 @@ tags = []
 
 Dir.glob("_posts/*.*") do |post|
   File.readlines(post).each do |line|
+    # Handle tags
     if line =~ /^tags:\s*\[(.+)\]/
       tags += $1.split(",").map(&:strip)
     elsif line =~ /^tags:\s*$/
       # Multi-line tags
+      idx = File.readlines(post).index(line)
+      tags += File.readlines(post)[(idx+1)..-1]
+                .take_while { |l| l =~ /^\s*-\s*/ }
+                .map { |l| l.strip.gsub("- ", "") }
+    end
+    
+    # Handle categories
+    if line =~ /^categories:\s*\[(.+)\]/
+      tags += $1.split(",").map(&:strip)
+    elsif line =~ /^categories:\s*(.+)$/
+      tags += [$1.strip]
+    elsif line =~ /^categories:\s*$/
+      # Multi-line categories
       idx = File.readlines(post).index(line)
       tags += File.readlines(post)[(idx+1)..-1]
                 .take_while { |l| l =~ /^\s*-\s*/ }

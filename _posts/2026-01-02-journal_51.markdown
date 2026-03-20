@@ -2,7 +2,10 @@
 layout: post
 title:  "平凡料理2026/1"
 date:   2026-01-02
-categories: Life
+categories: [生活]
+featured: false
+published: true
+draft: false
 ---
 
 感恩节晚餐的时候一个朋友说，他们公寓的人会每个月轮流出一道three course的晚餐，不仅要好吃还要好看。我觉得这个想法不错。

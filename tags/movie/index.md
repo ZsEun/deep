@@ -1,5 +1,6 @@
 ---
 layout: tag
-tag: movie
 title: "Posts tagged with movie"
+tag: movie
+permalink: /tags/movie/
 ---

@@ -2,7 +2,9 @@
 layout: post
 title:  "怎么炸酥肉和天妇罗"
 date:   2022-12-24
-categories: Life
+categories: 生活
+featured: true
+draft: false
 ---
 其实我原来会蒸馒头花卷的，但是长时间不做，现在已经忘了。炸酥肉也是，一年到头也就过年会做一次，所以每次都得从头回去问妈妈怎么做，一直也没啥长进。昨天跟lab同学pot luck又炸了一次，正好记下来总结的几条经验，免得明年又忘了。
 

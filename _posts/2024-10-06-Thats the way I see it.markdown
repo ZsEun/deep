@@ -2,8 +2,9 @@
 layout: post
 title:  "《我的观看之道》摘抄"
 date:   2024-10-06
-categories: Book
-comments: true
+categories: 读书
+featured: true
+draft: false
 ---
 
 ![pic](/image/david_5.jpg)

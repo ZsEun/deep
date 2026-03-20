@@ -3,7 +3,8 @@ layout: post
 title:  "一些播客"
 date:   2025-05-11
 categories: Life
-published: false
+featured: false
+draft: true
 ---
 
 <h2>新闻类</h2>

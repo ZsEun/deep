@@ -2,7 +2,9 @@
 layout: post
 title:  "《饮食男女》和《花样年华》"
 date:   2025-07-08
-categories: Life
+categories: 影视
+featured: true
+draft: false
 ---
 
 上周六在三番Roxie影院看了《饮食男女》和《花样年华》。虽然都不是第一次看，但依旧很享受。

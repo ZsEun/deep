@@ -2,7 +2,9 @@
 layout: post
 title:  "把GIRL作为方法"
 date:   2025-06-06
-categories: Life
+categories: [生活, 瞎想, 工作]
+featured: true
+draft: false
 ---
 
 我昨天想出一个金句： girl可以是一种处境，也可以是一种态度。前者是被动的状态，后者是主动的选择。

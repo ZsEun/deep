@@ -2,7 +2,10 @@
 layout: post
 title:  "Mayhem Ball in SF"
 date:   2025-07-23
-categories: Life
+categories: 爱好
+featured: true
+published: true
+draft: false
 ---
 
 今天去三番看了Lady Gaga的巡演，Mayhem ball。用一句话概括就是，

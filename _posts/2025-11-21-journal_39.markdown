@@ -2,7 +2,10 @@
 layout: post
 title:  "可以量化的困难就一定能克服"
 date:   2025-11-21
-categories: Life
+categories: [爱好,斯普拉遁]
+featured: true
+published: true
+draft: false
 ---
 
 这两天遇到了一个有点幼稚的烦恼，就是我突然发现喷喷的这个赛季会在月底结束，catalog上的积分会随之清零。

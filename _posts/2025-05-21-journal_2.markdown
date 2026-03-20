@@ -2,7 +2,9 @@
 layout: post
 title:  "跟亚洲team work"
 date:   2025-05-21
-categories: Life
+categories: 工作
+featured: true
+draft: false
 ---
 
 因为要一直跟亚洲的team work[1]，所以我经常要从下午五六点开始开会，有时甚至要开到九点，极端情况甚至有一次晚上十一点开始开。

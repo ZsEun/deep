@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No. 44 锵锵聊过的俄罗斯和乌克兰"
+title: "锵锵聊过的俄罗斯和乌克兰"
 date: 2022-03-18
 featured: true
 draft: false

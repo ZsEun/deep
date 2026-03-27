@@ -4,6 +4,7 @@ title: "在丹麦的交换生活"
 date: 2026-03-27
 featured: true
 draft: false
+categories: [其他]
 ---
 
 《日常兴趣》时隔很久的一次更新，我和我的同学聊了下她在丹麦交换半年学到的东西和感受到的丹麦社会。

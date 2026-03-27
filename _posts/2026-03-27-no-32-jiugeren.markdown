@@ -4,6 +4,7 @@ title: "九个人"
 date: 2019-12-25
 featured: true
 draft: false
+categories: [读书]
 ---
 
 ![pic](/image/no-32-jiugeren_1.jpg)

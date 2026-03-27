@@ -4,6 +4,7 @@ title: "2020看的书"
 date: 2020-12-12
 featured: true
 draft: false
+categories: [读书]
 ---
 
 一共17本

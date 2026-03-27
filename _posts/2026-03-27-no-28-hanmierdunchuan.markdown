@@ -4,6 +4,7 @@ title: "汉密尔顿传"
 date: 2019-12-21
 featured: true
 draft: false
+categories: [读书]
 ---
 
 ![pic](/image/no-28-hanmierdunchuan_1.jpg)

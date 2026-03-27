@@ -4,6 +4,7 @@ title: "月度采样 #4"
 date: 2026-04-29
 featured: true
 draft: false
+categories: [生活]
 ---
 
 本期Key words：关于小熊，旅行的意义，上海，web3，瞬息全宇宙，汉密尔顿，my little airport，Feel My Rhythm，MBTI，星之卡比，aespa

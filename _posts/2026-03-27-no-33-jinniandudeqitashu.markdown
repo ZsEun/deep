@@ -4,6 +4,7 @@ title: "今年读的其他书"
 date: 2019-12-26
 featured: true
 draft: false
+categories: [读书]
 ---
 
 **袍哥**

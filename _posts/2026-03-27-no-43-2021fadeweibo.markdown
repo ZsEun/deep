@@ -4,6 +4,7 @@ title: "2021发的微博"
 date: 2021-12-10
 featured: true
 draft: false
+categories: [生活][瞎想]
 ---
 
 偶尔在实验室听到同学用自己的方言打电话都感觉好好玩啊，尤其是那种中英文夹杂的

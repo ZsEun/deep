@@ -4,6 +4,7 @@ title: "月度采样#2"
 date: 2022-03-04
 featured: true
 draft: false
+categories: [生活]
 ---
 
 以下是我二月的生活。和上期一样，因为微信不是互联网加不了超链接，所以文中提到的所有链接都放在文末。

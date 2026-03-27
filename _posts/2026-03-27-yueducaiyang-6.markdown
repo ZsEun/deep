@@ -4,6 +4,7 @@ title: "月度采样 #6"
 date: 2022-07-02
 featured: true
 draft: false
+categories: [生活]
 ---
 
 本期关键词：Covid确诊，语义错误，英国式丑闻，天龙八部，远方的鼓声，攀岩

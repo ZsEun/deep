@@ -4,6 +4,7 @@ title: "青年变革者：梁启超"
 date: 2019-12-22
 featured: true
 draft: false
+categories: [读书]
 ---
 
 ![pic](/image/no-29-qingnianbiangezhe-liangqichao_1.jpg)

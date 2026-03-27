@@ -4,6 +4,7 @@ title: "月度采样#3"
 date: 2022-03-31
 featured: true
 draft: false
+categories: [生活]
 ---
 
 Key words：俄乌战争，青春变形记，我的天才女友第三季，BBC纪录片，(G)I-DLE，Red Velvet，SHINee，古代中国内陆，星之卡比，宋智雅，吃饭，羽毛球

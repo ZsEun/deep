@@ -4,6 +4,7 @@ title: "2021上半年读的书"
 date: 2021-06-05
 featured: true
 draft: false
+categories: [读书]
 ---
 
 一共八本

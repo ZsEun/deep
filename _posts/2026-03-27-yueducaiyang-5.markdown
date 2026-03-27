@@ -4,6 +4,7 @@ title: "月度采样 #5"
 date: 2026-06-05
 featured: true
 draft: false
+categories: [生活]
 ---
 
 月度采样记录了每个月我的时间和金钱都花在了哪里。本期关键词：万历十五年，山旅书札，攀岩，海边。

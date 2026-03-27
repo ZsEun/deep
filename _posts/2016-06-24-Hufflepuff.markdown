@@ -4,9 +4,7 @@ title:  "我可能只能进赫奇帕奇了"
 date:   2016-06-24
 categories:  [瞎想, 哈利波特]
 featured: true
-draft: false
 ---
-
 霍格沃兹的设定，真的好暖啊
 即使你不是二代，不聪明，还不勇敢
 至少还有赫奇帕奇欢迎你

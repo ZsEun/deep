@@ -6,9 +6,7 @@ categories: Life
 tags: [movie]
 featured: false
 published: false
-draft: false
 ---
-
 Jekyll
 
 <h2>早期山水：六朝至宋初</h2>

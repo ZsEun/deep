@@ -5,9 +5,7 @@ date:   2025-11-14
 categories: [攀岩, 瞎想, 斯普拉遁]
 featured: true
 published: true
-draft: false
 ---
-
 <h3>模糊的主语</h3>
 
 今天突然想到，my little airport的歌一般是林阿P写的，由Selene演唱。而且他们的很多歌词都是以“我”的口吻向“你”诉说。

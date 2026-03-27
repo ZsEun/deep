@@ -5,9 +5,7 @@ date:   2025-11-29
 categories: 读书
 featured: true
 published: true
-draft: false
 ---
-
 ![pic](/image/jpg_16.jpg)
 
 这本书是我在香港诚品买的。全书分成三个部分，本别是抗战时期重庆的女性与社会、经济和政治。每个部分都是作者先来一段引言，介绍一下背景，引用一些宏观统计数据，然后是女性的自述。

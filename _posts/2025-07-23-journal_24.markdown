@@ -5,9 +5,7 @@ date:   2025-07-23
 categories: 影视
 featured: true
 published: true
-draft: false
 ---
-
 上周末去影院看了《龙猫》。
 
 按理来说，我应该已经跟故事里的父亲年纪相仿了，但是以我的人生阅历，还很难主动带入到他的视角。

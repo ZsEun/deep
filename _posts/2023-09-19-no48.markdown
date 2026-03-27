@@ -4,9 +4,7 @@ title:  "上班两个月的一些小事"
 date:   2023-09-19
 categories: [生活, 瞎想]
 featured: true
-draft: false
 ---
-
 可能就像机械腕表和定制跑车一样，以后绝对禁止chatgpt的大学也会变成奢侈品，而更多大学的目的是职业教育，会使用gpt是必备的技能。\
 Jul 5
 

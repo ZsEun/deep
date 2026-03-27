@@ -5,9 +5,7 @@ date:   2025-11-01
 categories: 政治
 featured: false
 published: true
-draft: false
 ---
-
 昨天是万圣节，但是party的事先放到一边，且说我们三个为了方便，还在三番订了间酒店住了一晚。
 今天早晨在大堂吃早饭的时候，不知道为什么就聊到了美国现在的移民政策。
 你来我往地，言辞也慢慢mean了起来。

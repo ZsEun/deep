@@ -4,9 +4,7 @@ title:  "猴哥你真了不得"
 date:   2025-05-20
 categories: 生活
 featured: true
-draft: false
 ---
-
 看到<a href="https://cbvivi.today/" target="_blank" rel="noopener noreferrer">cbvivi</a>
 开始了一个100天博客的挑战，我觉得我也可以试试。倒不是非要连续100天发，甚至也不想设一个期限，总之有就发，多小的事，只要是有意思就都可以发。
 

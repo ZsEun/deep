@@ -5,9 +5,7 @@ date:   2025-11-25
 categories: 读书
 featured: true
 published: true
-draft: false
 ---
-
 上周听完了这本Colin Jost在2020年出版的回忆录，有声书也是由他本人朗读的。
 书的前半部分大致按时间顺序讲了他的成长经历，后半部分是他加入SNL十几年间的一些故事。
 

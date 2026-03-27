@@ -4,9 +4,8 @@ title:  "向胆固醇宣战！"
 date:   2025-06-30
 categories: Life
 featured: false
-draft: true
+published: false
 ---
-
 基本原则：
 
 - 减少饱和脂肪和胆固醇摄入

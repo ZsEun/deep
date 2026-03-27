@@ -4,9 +4,7 @@ title:  "树上的男爵"
 date:   2025-05-30
 categories: 读书
 featured: true
-draft: false
 ---
-
 最近刚看完这本书，如果想要了解故事梗概的话，可以听这两期播客：
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/5-%E6%A0%91%E4%B8%8A%E7%9A%84%E7%94%B7%E7%88%B5-%E4%B8%8A-%E4%B8%8D%E5%90%83%E8%9C%97%E7%89%9B%E4%B8%8D%E4%B8%8A%E5%9C%B0-%E5%8F%AA%E6%83%B3%E4%B8%8A%E6%A0%91%E6%90%9E%E5%8F%9B%E9%80%86/id1797637997?i=1000702617749"></iframe>

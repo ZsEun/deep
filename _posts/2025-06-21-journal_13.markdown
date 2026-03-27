@@ -4,9 +4,7 @@ title:  "印刷品也是艺术"
 date:   2025-06-21
 categories: [生活, 文化]
 featured: true
-draft: false
 ---
-
 大卫霍克尼在他的<a href="https://zseun.github.io/book/2024/10/06/Thats-the-way-I-see-it.html" target="_blank" rel="noopener noreferrer">自传</a>
 第一章开头就在讲印刷对于艺术的推动作用：
 

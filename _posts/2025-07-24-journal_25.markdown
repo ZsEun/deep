@@ -5,9 +5,7 @@ date:   2025-07-23
 categories: 爱好
 featured: true
 published: true
-draft: false
 ---
-
 今天去三番看了Lady Gaga的巡演，Mayhem ball。用一句话概括就是，
 世界顶级的艺术家在她职业生涯巅峰与自己对话的一场表演。
 

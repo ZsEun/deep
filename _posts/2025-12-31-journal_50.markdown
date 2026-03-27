@@ -5,9 +5,7 @@ date:   2025-12-31
 categories: 生活
 featured: false
 published: true
-draft: false
 ---
-
 前段时间chatgpt的那个年终总结出来，我才意识到其实chatgpt现在已经取代了google，成为了我最重要的搜索引擎。
 所以我打算从这个月开始，记录一下我都跟chatgpt聊了什么。
 

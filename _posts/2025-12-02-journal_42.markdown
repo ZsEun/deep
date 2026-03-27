@@ -5,9 +5,7 @@ date:   2025-12-02
 categories: 爱好
 featured: true
 published: true
-draft: false
 ---
-
 今天apple music出了年终总结。我常听的歌当然一般都是大路货，比如今年的Top artist前三甲分别是Lady Gaga，Twice，和New Jeans。
 不过过去一年我也的确认识了一些之前不知道的歌手，所以就罗列了一下。
 

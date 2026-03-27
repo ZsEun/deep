@@ -4,11 +4,8 @@ title:  "关于我爱你"
 date:   2024-03-10
 categories: Life
 featured: false
-draft: true
+published: false
 ---
-
-
-
 最近YouTube大数据又开始给我推looking相关的视频。发现当年完结电影的首映就是在Castro theater办的，卡司就站在Castro street上接受采访，包括剧里都在这取过景。\
 Jan 18
 

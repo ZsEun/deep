@@ -4,9 +4,8 @@ title:  "Graphic novels from the Mountain View public library"
 date:   2024-06-08
 categories: 读书
 featured: false
-draft: true
+published: false
 ---
-
 <h3>Can't we talk about something more pleasant?</h3>
 
 > Roz Chast and her parents were practitioners of denial: if you don't ever think about death, it will never happen. 

@@ -416,7 +416,10 @@ def parse_args(argv=None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Import a WeChat article into the Jekyll blog '保持采样'."
     )
-    parser.add_argument("url", help="WeChat article URL (https://mp.weixin.qq.com/s/...)")
+    parser.add_argument("url", nargs="?", default=None,
+                        help="WeChat article URL (https://mp.weixin.qq.com/s/...)")
+    parser.add_argument("--file", default=None,
+                        help="Path to a locally saved WeChat HTML file (use instead of URL)")
     parser.add_argument("--slug", default=None,
                         help="Override the auto-generated slug")
     parser.add_argument("--categories", default=None,
@@ -442,37 +445,48 @@ def main(argv=None):
     posts_dir = os.path.join(base_dir, "_posts")
     image_dir = os.path.join(base_dir, "image")
 
-    # 1. Validate URL
-    if not validate_url(args.url):
-        print("Error: Invalid WeChat article URL. "
-              "Expected: https://mp.weixin.qq.com/s/...", file=sys.stderr)
+    # 1. Get HTML — from file or URL
+    if args.file:
+        # Read from local HTML file
+        if not os.path.isfile(args.file):
+            print(f"Error: File not found: {args.file}", file=sys.stderr)
+            raise SystemExit(1)
+        print(f"Reading from file: {args.file}")
+        with open(args.file, "r", encoding="utf-8") as f:
+            html = f.read()
+    elif args.url:
+        # Validate and fetch URL
+        if not validate_url(args.url):
+            print("Error: Invalid WeChat article URL. "
+                  "Expected: https://mp.weixin.qq.com/s/...", file=sys.stderr)
+            raise SystemExit(1)
+        print(f"Fetching article: {args.url}")
+        html = fetch_article(args.url)
+    else:
+        print("Error: Provide either a WeChat URL or --file path.", file=sys.stderr)
         raise SystemExit(1)
 
-    # 2. Fetch HTML
-    print(f"Fetching article: {args.url}")
-    html = fetch_article(args.url)
-
-    # 3. Extract metadata
+    # 2. Extract metadata
     meta = extract_metadata(html)
     print(f"Title: {meta['title']}")
     print(f"Date:  {meta['date']}")
 
-    # 4. Extract body
+    # 3. Extract body
     body = extract_body(html)
 
-    # 5. Generate slug
+    # 4. Generate slug
     slug = args.slug if args.slug else generate_slug(meta["title"])
     print(f"Slug:  {slug}")
 
-    # 6. Download media
+    # 5. Download media
     print("Downloading media assets...")
     media_map = download_media(body, slug, image_dir)
     print(f"Downloaded {len(media_map)} media asset(s).")
 
-    # 7. Convert to Markdown
+    # 6. Convert to Markdown
     md_content = convert_to_markdown(body, media_map)
 
-    # 8. Generate front matter
+    # 7. Generate front matter
     featured = not args.no_featured
     front_matter = generate_front_matter(
         title=meta["title"],
@@ -482,7 +496,7 @@ def main(argv=None):
         draft=args.draft,
     )
 
-    # 9. Write post
+    # 8. Write post
     filepath = write_post(front_matter, md_content, meta["date"], slug, posts_dir)
     print(f"\nDone! Post created: {filepath}")
     print(f"Media assets downloaded: {len(media_map)}")

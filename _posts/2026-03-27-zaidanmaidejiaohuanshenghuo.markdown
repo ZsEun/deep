@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在丹麦的交换生活"
-date: 2026-03-27
+date: 2020-03-27
 featured: true
 draft: false
 categories: [其他]

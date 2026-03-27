@@ -4,7 +4,7 @@ title:  "感觉我需要一个私人秘书"
 date:   2025-06-22
 categories: Life
 featured: false
-published: false
+draft: true
 ---
 其实我小时候就有这个愿望了，不过当时是希望有个书童，帮我完成抄实验报告这种毫无意义不费脑子的重复性工作。
 不过随着我个人的不断成熟（？），书童也需要成长为秘书，职责包括但不限于：

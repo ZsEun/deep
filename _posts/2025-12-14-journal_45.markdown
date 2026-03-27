@@ -4,7 +4,6 @@ title:  "看了两部意向丰富的电影"
 date:   2025-12-14
 categories: 影视
 featured: true
-published: true
 ---
 昨天去三番看了两部电影。第一部是今年来自巴西的新片《the secret agent》（密探）
 

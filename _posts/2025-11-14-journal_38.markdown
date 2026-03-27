@@ -4,7 +4,6 @@ title:  "几则感想"
 date:   2025-11-14
 categories: [攀岩, 瞎想, 斯普拉遁]
 featured: true
-published: true
 ---
 <h3>模糊的主语</h3>
 

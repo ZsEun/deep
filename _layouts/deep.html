@@ -12,7 +12,7 @@ layout: base
   <!-- Tag Cloud -->
   {%- assign published_posts = "" | split: "" -%}
   {%- for post in site.posts -%}
-    {%- unless post.published == false -%}
+    {%- unless post.draft == true -%}
       {%- assign published_posts = published_posts | push: post -%}
     {%- endunless -%}
   {%- endfor -%}
@@ -20,7 +20,7 @@ layout: base
 
   {% assign posts = "" | split: "" %}
   {% for post in site.posts %}
-    {% unless post.published == false %}
+    {% unless post.draft == true %}
       {% assign posts = posts | push: post %}
     {% endunless %}
   {% endfor %}

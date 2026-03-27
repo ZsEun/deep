@@ -4,7 +4,6 @@ title:  "浪游记快S6：墨西哥城"
 date:   2026-01-25
 categories: 旅行
 featured: true
-published: true
 ---
 自从2023年开车往返密苏里和加州之后，我就没有再出过远门了，最多就是在加州内部去一下LA、Tahoe，
 或者回国顺路去一下北京和香港。于是曾经红红火火的

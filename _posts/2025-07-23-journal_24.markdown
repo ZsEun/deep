@@ -4,7 +4,6 @@ title:  "《龙猫》：成年人不奔跑"
 date:   2025-07-23
 categories: 影视
 featured: true
-published: true
 ---
 上周末去影院看了《龙猫》。
 

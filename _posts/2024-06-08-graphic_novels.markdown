@@ -4,7 +4,7 @@ title:  "Graphic novels from the Mountain View public library"
 date:   2024-06-08
 categories: 读书
 featured: false
-published: false
+draft: true
 ---
 <h3>Can't we talk about something more pleasant?</h3>
 

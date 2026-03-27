@@ -4,7 +4,7 @@ title:  "一些小乐事"
 date:   2025-05-07
 categories: Life
 featured: false
-published: false
+draft: true
 ---
 在SF MoMA，我很喜欢一个以运动为主题的展，让我觉得好的当代艺术其实是更容易和我们的产生情感联结的，毕竟离日常生活更近\
 Jan 11

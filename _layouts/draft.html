@@ -10,10 +10,10 @@ layout: base
   {{ content }}
 
   <!-- Tag Cloud (draft posts only) -->
-  {%- assign draft_posts = site.posts | where: "published", false -%}
+  {%- assign draft_posts = site.posts | where: "draft", true -%}
   {%- include tag-cloud.html posts=draft_posts -%}
 
-  {% assign posts = site.posts | where: "published", false %}
+  {% assign posts = site.posts | where: "draft", true %}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}

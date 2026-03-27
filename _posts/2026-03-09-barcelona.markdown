@@ -4,7 +4,7 @@ title:  "浪游记快S6E1：巴塞罗那"
 date:   2026-03-09
 categories: [旅行]
 featured: false
-published: false
+draft: true
 ---
 继上次冲出中美两国之后，这次我又冲出亚洲和北美两洲了，三月第一周去了里斯本、巴塞罗那和巴黎。浪游记快的第七季就分三篇讲一下在这三座城市都干了什么。
 

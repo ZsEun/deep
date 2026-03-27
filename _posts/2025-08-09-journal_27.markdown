@@ -4,7 +4,6 @@ title:  "Outside Lands 2025"
 date:   2025-08-09
 categories: 爱好
 featured: true
-published: true
 ---
 在
 <a href="https://zseun.github.io/life/2025/08/07/journal_26.html" target="_blank" rel="noopener noreferrer">出票失败</a>

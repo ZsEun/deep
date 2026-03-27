@@ -4,7 +4,6 @@ title:  "经历了一波裁员"
 date:   2025-10-28
 categories: 工作
 featured: true
-published: true
 ---
 今天经历了我司自我入职两年多以来最大的一次layoff，昨天媒体爆出来是裁3万，今天实际出来是裁了1万4。
 

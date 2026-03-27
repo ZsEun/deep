@@ -4,7 +4,9 @@ title:  "被vibe coding惊艳了！"
 date:   2026-03-10
 categories: [爱好, 工作]
 featured: false
+draft: false
 ---
+
 众所周知我是一个software白痴，最擅长的coding language是matlab，毕业之后两三年不用也逐渐生疏了。总之我对ai一直处在隔岸观火的状态，无非就只是当更智能的搜索引擎来用。
 反正有一说一，hardware engineer里现在也的确用不到什么ai或者machine learning。
 

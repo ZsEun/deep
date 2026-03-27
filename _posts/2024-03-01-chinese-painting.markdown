@@ -6,6 +6,7 @@ categories: Culture
 featured: false
 draft: true
 ---
+
 早期人物画：汉、六朝及唐
 
 <p style="color: black;">由始至终，用毛笔画成的<span style="color: red;">线条</span>一直都是中国绘画的要素。欧洲绘画也是以线条开始的，但是人们的兴趣后来从勾勒轮廓的线条转移到轮廓内的事物中去，把注意力放到光影、体积、柔化轮廓，或者使轮廓模楼的种种表现法上，从而削弱了线条的重要性。

@@ -4,7 +4,9 @@ title:  "月度采样#8"
 date:   2022-08-26
 categories: 生活
 featured: true
+draft: false
 ---
+
 本期key words：WTA比赛，攀岩，优胜美地。
 
 八月算是五月的镜像，大概也分成了三段：前两周实习结束，第三周从加州开回密苏里，最后一周在密苏里继续校园生活。

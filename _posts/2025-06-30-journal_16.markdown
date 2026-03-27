@@ -4,7 +4,10 @@ title:  "今天上班的两个感悟"
 date:   2025-06-30
 categories: 工作
 featured: true
+draft: false
 ---
+
+
 ![pic](/image/jpg_1.jpg)
 
 大概是因为今天周一，即使我没什么要紧的dealine，早晨还是焦虑到不行。

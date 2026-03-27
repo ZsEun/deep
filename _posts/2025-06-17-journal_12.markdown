@@ -4,7 +4,9 @@ title:  "碎片化运动"
 date:   2025-06-17
 categories: 生活
 featured: true
+draft: false
 ---
+
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/040-%E7%A2%8E%E7%89%87%E5%8C%96%E7%9F%A5%E8%AF%86%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%9C%89%E7%94%A8-%E4%BD%86%E7%A2%8E%E7%89%87%E5%8C%96%E8%BF%90%E5%8A%A8%E6%98%AF%E7%9C%9F%E7%9A%84%E8%83%BD%E7%BB%AD%E5%91%BD/id1742477894?i=1000713150170"></iframe>
 
 今天听了一期播客，我觉得大受启发！主旨其实很简答，就是研究表明，只要心率上去，即使一分钟的运动也对健康有益。

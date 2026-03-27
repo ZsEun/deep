@@ -6,6 +6,7 @@ categories: Life
 featured: false
 draft: true
 ---
+
 手机已经算是我看世界的第二双眼睛了，所以觉得定期记录一下
 
 <div style="height: 1.5em; width: 100%;"></div>

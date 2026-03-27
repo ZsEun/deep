@@ -5,7 +5,11 @@ date:   2024-03-30
 categories: [读书, 文化]
 featured: true
 
+draft: false
 ---
+
+
+
 <h2>早期山水：六朝至宋初</h2>
 
 从汉到唐，人物画在中国绘画里占据了主要地位，这和步入现代时期以前（pre-modern）发生在西方美术史的情形一样。

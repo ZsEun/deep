@@ -4,7 +4,10 @@ title:  "Perfect Blue：双重束缚"
 date:   2025-10-15
 categories: 影视
 featured: true
+published: true
+draft: false
 ---
+
 一晃已经有两个月没有写博客了，主要是因为九月回国待了一个月，期间经历了H1B政策乌龙的惊魂周末。九月底回来之后搬家，上周末又去了一趟LA。
 甚至包括手机从用了五年的12 mini换到iphone 17，工作电脑从windows换成macbook这些小事，都让我久久没有一种生活重新回到正轨的感觉。
 这一周就在通过很多小事开始让自己重新安定下来，比如重新开始上班带饭、重新开始运动、重新active岩馆membership，当然也包括重新开始写博客。

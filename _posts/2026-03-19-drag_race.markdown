@@ -3,9 +3,10 @@ layout: post
 title:  "drag race制胜方法论"
 date:   2026-03-19
 categories: Life
+published: false
 tags: [movie]
-draft: true
 ---
+
 所谓初生牛犊不怕虎，虽然我才刚开始看Ru Paul's Drag Race，但是指手画脚指点江山指鹿为马的吐槽已经累积了一箩筐了。
 除了有时候很让人迷惑的比赛结果，更有每每让我扼腕的选手表现，我真的经常不理解有些选手到底是在干嘛。
 所以小镇做题家之心不死，我决定激情总结一套如何在Ru Paul's Drag Race上赢得胜利的方法论，助力今后的drag queen乘风破浪。

@@ -4,7 +4,9 @@ title:  "毕业前的一些小事"
 date:   2023-07-09
 categories: [生活, 瞎想]
 featured: true
+draft: false
 ---
+
 窦文涛会熟练地使用文革语言来讲述一些很荒诞的事情，算是一种对权威的解构。\
 Feb 18, 2023
 

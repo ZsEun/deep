@@ -4,7 +4,10 @@ title:  "互联网就是garbage in garbage out"
 date:   2025-11-09
 categories: [影视, 生活]
 featured: true
+published: true
+draft: false
 ---
+
 我本来想把最近几个月听过的播客、在b站和youtube看过的视频挑出一些值得说的总结一下。但是在播放历史里翻找了一番，发现并没有什么特别值得说的。连这些长视频平台都这样，更不用说根本连播放历史都不存在的短视频平台了。
 所以基本可以说，互联网上的内容都不过是打发时间的快消品，garbage in garbage out。趁机把youtube premium membership给取消了。
 

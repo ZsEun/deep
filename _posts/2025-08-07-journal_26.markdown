@@ -4,7 +4,10 @@ title:  "还价的时候也请礼貌一点"
 date:   2025-08-07
 categories: 生活
 featured: false
+published: true
+draft: false
 ---
+
 笑死我又开始发泄负面情绪了。
 
 OutsideLands是三番的一个音乐节，因为我很喜欢的一个乐队今年要来，所以我几个月前就买好票了。

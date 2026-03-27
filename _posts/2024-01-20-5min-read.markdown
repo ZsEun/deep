@@ -3,9 +3,10 @@ layout: post
 title:  "一日一文"
 date:   2024-01-20
 categories: Culture
-featured: false
 draft: true
+featured: false
 ---
+
 [梦“女”的梦女：“陈都灵是我少女时期的英雄主义” ](https://mp.weixin.qq.com/s/dDCXp7DzlfGlA2wNTADryg)
 
 文章探讨了女性粉丝对日本ACGN文化中的女性角色和现实中的女性明星的崇拜。分析了女性从对男性角色的幻想转向对女性的关注，重点在于情感联系和内心欲望。这种文学形式突出了个人成长、自我认同，并挑战了传统浪漫叙述，呈现了女性粉丝群体和身份认同的新视角。

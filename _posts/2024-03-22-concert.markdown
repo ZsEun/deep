@@ -4,7 +4,9 @@ title:  "Ready to be"
 date:   2024-03-22
 categories: 爱好
 featured: true
+draft: false
 ---
+
 之前一直在发一些小事，上周末终于发生了一件大事，去Vegas看了twice演唱会哈哈。
 
 本来想把行程录成两集播客的，名字我都想好了，叫“与博后同行”，因为在LA和Vegas是分别跟两个博后在一起玩的。奈何每天都搞得半夜，所以只能现在记一下流水账。

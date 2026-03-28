@@ -133,11 +133,11 @@ https://www.xiaoyuzhoufm.com/episode/62687b67384f4ba14aa61a6c
 
 https://www.gcores.com/articles/149295
 
-[12] 【爆肝中字】古典音乐人评测Red Velvet ‘Feel My Rhythm’|必看Reaction
+[12] 【爆肝中字】古典音乐人评测Red Velvet ‘Feel My Rhythm’必看Reaction
 
 https://www.bilibili.com/video/BV1wq4y1a78y?from=search&seid=17403648664160410322&spm\_id\_from=333.337.0.0
 
-[13] 深扒Red Velvet《Feel My Rhythm》最全MV解析 从巴赫到博斯 从神学到艺术 从文艺复兴到SMCU元宇宙 | @cody加鸡腿
+[13] 深扒Red Velvet《Feel My Rhythm》最全MV解析 从巴赫到博斯 从神学到艺术 从文艺复兴到SMCU元宇宙  @cody加鸡腿
 
 https://www.bilibili.com/video/BV195411m7oh?from=search&seid=2825326198342037628&spm\_id\_from=333.337.0.0
 

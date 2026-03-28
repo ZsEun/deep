@@ -2,7 +2,7 @@
 layout: post
 title: "月度采样 #5"
 date: 2022-06-05
-featured: true
+featured: false
 draft: false
 categories: [生活]
 ---

@@ -86,6 +86,6 @@ https://www.youtube.com/watch?v=Cyya23MPoAI
 
 https://www.xiaoyuzhoufm.com/episode/629e8745cd9b181e67a2d54b?s=eyJ1IjogIjVlZGYwMjVjYjBmZjkwOGQ3ZDc0ODJlNCJ9
 
-[10] Architect Breaks Down 5 of the Most Common New York Apartments | Architectural Digest
+[10] Architect Breaks Down 5 of the Most Common New York Apartments: Architectural Digest
 
 https://www.youtube.com/watch?v=RL7BECNn-RI

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "月度采样 #5"
-date: 2026-06-05
+date: 2022-06-05
 featured: true
 draft: false
 categories: [生活]

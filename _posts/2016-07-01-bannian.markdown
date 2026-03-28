@@ -2,7 +2,7 @@
 layout: post
 title: "半年"
 date: 2016-07-01
-featured: true
+featured: false
 draft: false
 categories: [生活]
 ---

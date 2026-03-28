@@ -61,4 +61,3 @@ categories: [读书, 翻译]
 
 最后，赶快关注我的公众号啊!!!虽然十二月一堆考试周更都不能保证....
 
-![pic](/image/xiaowangzi-7_2.jpg)

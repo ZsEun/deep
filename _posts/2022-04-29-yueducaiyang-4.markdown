@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "月度采样 #4"
-date: 2026-04-29
+date: 2022-04-29
 featured: true
 draft: false
 categories: [生活]
 ---
 
-本期Key words：关于小熊，旅行的意义，上海，web3，瞬息全宇宙，汉密尔顿，my little airport，Feel My Rhythm，MBTI，星之卡比，aespa
-
-开场先来一段我唱《**关于小熊**》！只要听得足够多，人人都能变rapper（或者reader）。
+本期Key words：旅行的意义，上海，web3，瞬息全宇宙，汉密尔顿，my little airport，Feel My Rhythm，MBTI，星之卡比，aespa
 
 四月第一个周末去了华盛顿看樱花，更新了[两期播客](http://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593611&idx=1&sn=bbed1a8c2df48ca7844a62b9c8a98bc8&chksm=81771515b6009c03191bc5c9f728143c7d366f5d63a6cd751b3e9e723c9660339c6959e9892a&scene=21#wechat_redirect)。每次旅行的时候都会想，到底什么才是**旅行的意义**呢。现在觉得意义就是能让我打开全部感官，用眼耳鼻舌去捕捉一切平时因为熟悉到麻木而忽视掉的东西。这可能算一种返祖现象，毕竟亿万年前南方古猿在非洲草原上狂奔的时候也必须时刻观察周围的一草一木。
 

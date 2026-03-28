@@ -7,7 +7,9 @@ draft: false
 categories: [文化, 翻译]
 ---
 
-先祝大家圣诞快乐~![pic](/image/shengdanjie-musilinzaiganshenme_1.jpg)
+先祝大家圣诞快乐~!
+
+![pic](/image/shengdanjie-musilinzaiganshenme_1.jpg)
 
 对很多美国犹太人来说，圣诞节意味着去吃一顿中餐或者和家人看一场电影。同样是不信仰基督教的族群，穆斯林们在圣诞节又会干什么呢？
 

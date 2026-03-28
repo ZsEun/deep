@@ -311,6 +311,4 @@ Reply
 
 **大家夏天快乐~**
 
-![pic](/image/cunshangwenda_2.jpg)
 
-点击阅读原文可以看到更多《村上问答》的内容

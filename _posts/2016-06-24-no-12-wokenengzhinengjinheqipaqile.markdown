@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "No.12 我可能只能进赫奇帕奇了"
+title: "我可能只能进赫奇帕奇了"
 date: 2016-06-24
 featured: true
 draft: false
-categories: [瞎想][哈利波特]
+categories: [瞎想, 哈利波特]
 ---
 
 霍格沃兹的设定，真的好暖啊  

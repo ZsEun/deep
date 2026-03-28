@@ -4,7 +4,7 @@ title: "白T"
 date: 2017-05-11
 featured: true
 draft: false
-categories: [生活][瞎想]
+categories: [生活, 瞎想]
 ---
 
 去年我买了两件UNIQLO的白T，一件的图案是LEGO，一件是line friends\

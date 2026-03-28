@@ -35,7 +35,7 @@ categories: [生活]
 
 另外生病之前每周去两次攀岩。每次的流程都是先爬个V0热身，再集中体力把上次没爬上的线搞定，最后再试几条新线。这时候虽然已经没劲了，不过可以多摸索摸索，等线路熟了之后下次一来就可以爬上去了。几次下来岩馆里的V1V2都爬得差不多了，已经在试简单的V3了，希望转阴之后能再进一步吧。
 
-为了学习攀岩技术关注了几个youtube博主，比如Bouldering Bobat[4][6]，Magnus Midtbø[5]，Lattice Training[7]。这一期[8]还挺有意思的，bouldering博主尝试free solo。
+为了学习攀岩技术关注了几个youtube博主，比如Bouldering Bobat[4, 6]，Magnus Midtbø[5]，Lattice Training[7]。这一期[8]还挺有意思的，bouldering博主尝试free solo。
 
 这个月看的其他视频和听的播客：
 

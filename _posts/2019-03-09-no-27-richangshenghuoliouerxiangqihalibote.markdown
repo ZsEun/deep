@@ -4,7 +4,7 @@ title: "日常生活里偶尔想起哈利波特"
 date: 2019-03-09
 featured: true
 draft: false
-categories: [瞎想][哈利波特]
+categories: [瞎想, 哈利波特]
 ---
 
 就像古代诗人写诗用典一样，我有时会下意识地从一件平常的事情联想到哈利波特

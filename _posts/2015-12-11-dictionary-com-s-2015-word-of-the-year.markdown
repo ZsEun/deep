@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Dictionary.com's 2015 word of the year"
+title: "Dictionary.com 2015 word of the year"
 date: 2015-12-11
 featured: true
 draft: false
-categories: [政治][翻译]
+categories: [政治, 翻译]
 ---
 
 ![pic](/image/dictionary-com-s-2015-word-of-the-year_1.png)

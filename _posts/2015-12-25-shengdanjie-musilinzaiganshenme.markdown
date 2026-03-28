@@ -4,7 +4,7 @@ title: "圣诞节，穆斯林在干什么？"
 date: 2015-12-25
 featured: true
 draft: false
-categories: [文化][翻译]
+categories: [文化, 翻译]
 ---
 
 先祝大家圣诞快乐~![pic](/image/shengdanjie-musilinzaiganshenme_1.jpg)

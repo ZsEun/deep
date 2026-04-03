@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "浪游记快S6E1：巴塞罗那"
+title:  "浪游记快S7E1：巴塞罗那"
 date:   2026-03-09
 categories: [旅行]
 featured: true

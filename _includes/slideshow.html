@@ -1,0 +1,132 @@
+{% comment %}
+  Usage: {% include slideshow.html images="/img1.jpg,/img2.jpg,/img3.jpg" id="my-slideshow" %}
+  - images: comma-separated list of image paths
+  - id: unique identifier (required if using multiple slideshows on one page)
+{% endcomment %}
+
+{% assign slide_images = include.images | split: "," %}
+{% assign slide_id = include.id | default: "slideshow" %}
+
+<div class="slideshow-container" id="{{ slide_id }}">
+  {% for img in slide_images %}
+  <div class="slide">
+    <img src="{{ img | strip }}" alt="slide {{ forloop.index }}" loading="lazy">
+  </div>
+  {% endfor %}
+
+  <button class="slide-btn slide-prev" onclick="moveSlide('{{ slide_id }}', -1)" aria-label="Previous">&#10094;</button>
+  <button class="slide-btn slide-next" onclick="moveSlide('{{ slide_id }}', 1)" aria-label="Next">&#10095;</button>
+
+  <div class="slide-dots">
+    {% for img in slide_images %}
+    <span class="slide-dot {% if forloop.first %}active{% endif %}" onclick="goToSlide('{{ slide_id }}', {{ forloop.index0 }})"></span>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+  .slideshow-container {
+    position: relative;
+    max-width: 100%;
+    margin: 1.5em auto;
+    overflow: hidden;
+    border-radius: 6px;
+    background: #000;
+  }
+  .slideshow-container .slide {
+    display: none;
+    text-align: center;
+  }
+  .slideshow-container .slide.active {
+    display: block;
+  }
+  .slideshow-container .slide img {
+    width: 100%;
+    max-height: 600px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+  }
+  .slide-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    border: none;
+    padding: 12px 16px;
+    font-size: 1.3em;
+    cursor: pointer;
+    border-radius: 3px;
+    z-index: 10;
+    transition: background 0.2s;
+    line-height: 1;
+  }
+  .slide-btn:hover {
+    background: rgba(0, 0, 0, 0.75);
+  }
+  .slide-prev { left: 8px; }
+  .slide-next { right: 8px; }
+  .slide-dots {
+    text-align: center;
+    padding: 8px 0 10px;
+    background: #000;
+  }
+  .slide-dot {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    margin: 0 4px;
+    background: #555;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .slide-dot.active {
+    background: #ccc;
+  }
+</style>
+
+<script>
+(function () {
+  // initialise on first call for this container
+  var el = document.getElementById('{{ slide_id }}');
+  if (!el) return;
+  var slides = el.querySelectorAll('.slide');
+  if (slides.length === 0) return;
+  slides[0].classList.add('active');
+
+  window._slideshowIndex = window._slideshowIndex || {};
+  window._slideshowIndex['{{ slide_id }}'] = 0;
+})();
+
+function moveSlide(id, direction) {
+  var el = document.getElementById(id);
+  var slides = el.querySelectorAll('.slide');
+  var dots = el.querySelectorAll('.slide-dot');
+  var current = window._slideshowIndex[id] || 0;
+
+  slides[current].classList.remove('active');
+  dots[current].classList.remove('active');
+
+  current = (current + direction + slides.length) % slides.length;
+  window._slideshowIndex[id] = current;
+
+  slides[current].classList.add('active');
+  dots[current].classList.add('active');
+}
+
+function goToSlide(id, index) {
+  var el = document.getElementById(id);
+  var slides = el.querySelectorAll('.slide');
+  var dots = el.querySelectorAll('.slide-dot');
+  var current = window._slideshowIndex[id] || 0;
+
+  slides[current].classList.remove('active');
+  dots[current].classList.remove('active');
+
+  window._slideshowIndex[id] = index;
+  slides[index].classList.add('active');
+  dots[index].classList.add('active');
+}
+</script>

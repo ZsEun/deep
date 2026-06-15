@@ -3,7 +3,7 @@ layout: post
 title:  "浪游记快S8E2：萨尔瓦多"
 date:   2026-06-08
 categories: [生活]
-featured: true
+featured: false
 draft: false
 ---
 

@@ -10,7 +10,13 @@ layout: base
   {{ content }}
 
   <!-- Tag Cloud (draft posts only) -->
-  {%- assign draft_posts = site.posts | where: "draft", true -%}
+  {%- assign all_draft_posts = site.posts | where: "draft", true -%}
+  {%- assign draft_posts = "" | split: "" -%}
+  {%- for post in all_draft_posts -%}
+    {%- unless post.self == true -%}
+      {%- assign draft_posts = draft_posts | push: post -%}
+    {%- endunless -%}
+  {%- endfor -%}
   {%- assign all_tags = "" | split: "" -%}
   {%- for post in draft_posts -%}
     {%- if post.tags -%}
@@ -58,7 +64,13 @@ layout: base
     </div>
   {%- endif -%}
 
-  {% assign posts = site.posts | where: "draft", true %}
+  {% assign all_draft = site.posts | where: "draft", true %}
+  {% assign posts = "" | split: "" %}
+  {% for post in all_draft %}
+    {% unless post.self == true %}
+      {% assign posts = posts | push: post %}
+    {% endunless %}
+  {% endfor %}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}

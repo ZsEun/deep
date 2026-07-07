@@ -13,7 +13,7 @@ layout: base
   {%- assign all_featured = site.posts | where: "featured", true -%}
   {%- assign featured_posts = "" | split: "" -%}
   {%- for post in all_featured -%}
-    {%- unless post.draft == true -%}
+    {%- unless post.draft == true or post.self == true -%}
       {%- assign featured_posts = featured_posts | push: post -%}
     {%- endunless -%}
   {%- endfor -%}
@@ -67,7 +67,7 @@ layout: base
   {% assign all_paged = site.posts | where: "featured", true %}
   {% assign posts = "" | split: "" %}
   {% for post in all_paged %}
-    {% unless post.draft == true %}
+    {% unless post.draft == true or post.self == true %}
       {% assign posts = posts | push: post %}
     {% endunless %}
   {% endfor %}

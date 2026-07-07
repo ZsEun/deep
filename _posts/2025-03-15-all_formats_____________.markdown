@@ -7,6 +7,7 @@ tags: [movie]
 featured: false
 published: false
 draft: false
+self: true
 ---
 
 Jekyll

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "浪游记快S8E1：里约"
+title:  "浪游记快S8E2：里约"
 date:   2026-05-31
 categories: [旅行]
-featured: true
-draft: false
+featured: false
+draft: true
 ---
 
 没错，又出来玩了，这次去巴西。起因是我有一个巴西朋友Leo在大学教书，他放暑假要回家，我就正好跟他一起在里约和萨尔瓦多玩了快两周。

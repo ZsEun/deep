@@ -1,16 +1,26 @@
 {% comment %}
-  Usage: {% include slideshow.html images="/img1.jpg,/img2.jpg,/img3.jpg" id="my-slideshow" %}
+  Usage: {% include slideshow.html images="/img1.jpg,/img2.jpg,/img3.jpg" captions="Title 1,Title 2,Title 3" id="my-slideshow" %}
   - images: comma-separated list of image paths
+  - captions: (optional) comma-separated list of captions, one per image
   - id: unique identifier (required if using multiple slideshows on one page)
 {% endcomment %}
 
 {% assign slide_images = include.images | split: "," %}
 {% assign slide_id = include.id | default: "slideshow" %}
+{% if include.captions %}
+  {% assign slide_captions = include.captions | split: "," %}
+{% endif %}
 
 <div class="slideshow-container" id="{{ slide_id }}">
   {% for img in slide_images %}
   <div class="slide">
     <img src="{{ img | strip }}" alt="slide {{ forloop.index }}" loading="lazy">
+    {% if slide_captions %}
+      {% assign caption = slide_captions[forloop.index0] %}
+      {% if caption and caption != "" %}
+      <div class="slide-caption">{{ caption | strip }}</div>
+      {% endif %}
+    {% endif %}
   </div>
   {% endfor %}
 
@@ -31,7 +41,6 @@
     margin: 1.5em auto;
     overflow: hidden;
     border-radius: 6px;
-    background: #000;
   }
   .slideshow-container .slide {
     display: none;
@@ -42,10 +51,16 @@
   }
   .slideshow-container .slide img {
     width: 100%;
-    max-height: 600px;
-    object-fit: contain;
+    height: auto;
     display: block;
     margin: 0 auto;
+  }
+  .slide-caption {
+    padding: 8px 12px 10px;
+    font-size: 0.88em;
+    color: #ccc;
+    background: #111;
+    text-align: center;
   }
   .slide-btn {
     position: absolute;
@@ -89,7 +104,6 @@
 
 <script>
 (function () {
-  // initialise on first call for this container
   var el = document.getElementById('{{ slide_id }}');
   if (!el) return;
   var slides = el.querySelectorAll('.slide');

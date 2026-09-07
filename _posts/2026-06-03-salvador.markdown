@@ -3,60 +3,44 @@ layout: post
 title:  "浪游记快S8E2：萨尔瓦多"
 date:   2026-06-03
 categories: [旅行]
-featured: false
-draft: true
+featured: true
+draft: false
 ---
 
+书接上回，在里约待了五天之后，我们飞去了巴西东北部沿海的萨尔瓦多。这次旅程之前，我根本不知道这座城市，但萨尔瓦多从1549到1763年是巴西的首都，可以说是巴西文化的发源地之一。
+
+不过萨尔瓦多给我的第一印象并不怎么好。里约还处在亚热带，五月又是秋季，所以天气并没有特别热。但萨尔瓦多可是实打实的热带雨林气候，一从机场出来就热浪袭人。而且我们打的uber竟然不开空调，我只能打开车窗勉强透气，又要扭着身子躲避灼人的日光。从机场到酒店，不知道是真的没有高速还是uber司机为了省钱不走高速，我们在狭窄的街道上走走停停，两边的贫民窟连绵不绝，直到酒店门口依旧有点破破烂烂的。里约的贫民窟感觉是零零星星散落在城市里，但在萨尔瓦多就是一两栋高楼突兀地插在贫民窟的汪洋大海里。
+
+![pic](/image/brazil_16.JPeG)
+
+不过酒店还是很不错的，直面壮阔的大西洋，楼下还有一小片沙滩。
+
+![pic](/image/brazil_15.JPeG)
+
+安顿下来之后已经时近黄昏，我们先去了海边的一座当年葡萄牙人为了抵御荷兰人建的一个堡垒。
+
+{% include slideshow.html images="/image/brazil_2.JPEG,/image/brazil_4.JPEG,/image/brazil_5.JPEG,/image/brazil_3.JPEG" id="burger-slideshow" %}
+
+当天晚上吃的是海鲜炖锅，这是萨尔瓦多的一道特色菜。
+颜色偏橙黄、汤汁浓稠，通常会用鱼、洋葱、番茄、甜椒、香菜，再加巴伊亚菜很有代表性的椰奶（leite de coco）和棕榈油/丹德油（azeite de dendê）一起慢炖。
+
+![pic](/image/brazil_6.JPeG)
+
+萨尔瓦多的景点基本都位于老城区，这里的地形很独特，沿海狭长的一条地势很低，但往内陆方向走，突然就升起一道高耸的断崖。殖民时代为了躲避来自海上的威胁，所以老城区重要的政府、教堂和住宅都坐落在悬崖之上的高处，所谓“上城”。而海岸边的低地就负责港口和商业功能，称之为“下城”。而上下两城之间最方便的交通方式竟然是电梯，最初于1873年启用。
+
+![pic](/image/brazil_7.JPeG)
+
+我们第二天的行程开始于下城的海关大楼，如今这里被改造成了一个主要贩卖旅游纪念品的市场。这么说起来感觉平平无奇，毕竟刻板印象里面向游客的纪念品商店卖的都是千篇一律的义乌货，但我确实在那里大开眼界，因为他们卖的东西都太有特色了！琳琅满目的手工艺品把所有巴伊亚当地的文化符号一股脑推到我的眼前，可以说这里成了我接触巴伊亚文化的第一站。很多在这里匆匆一瞥的形象都在接下来几天的行程里反复遇到，从初见时的惊奇慢慢地了解到背后的文化根源，这让我有种逐渐认识这座城市的感觉。这种感觉我在欧美国家旅游时几乎从来没有遇到。
+
+一改我昨天刚来时对城市的负面印象。我们后面去的很多地方，都能溯源到我们在这里看到的工艺品。这里高度浓缩了所有巴伊亚文化的符号，让我体会到了萨尔瓦多的独特之处
+
+![pic](/image/brazil_10.JPeG)
+
+我最喜欢的是这个棕榈覆面的神祇。他源自于西非的一种信仰，随着当年被贩卖到巴西的黑奴来到这里，象征着疾病、疗愈和生命转化。后来我们去看了一场当地民俗舞团的表演，第一幕就是五位神祗的表演。
 
 
 
+{% include slideshow.html images="/image/brazil_8.JPEG,/image/brazil_9.JPEG,/image/brazil_10.JPEG,/image/brazil_11.JPEG,/image/brazil_12.JPEG,/image/brazil_13.JPEG,/image/brazil_14.JPEG" id="slideshow2" %}
 
 
-海岸灯塔
-![pic](/image/brazil_1.JPG)
-
-夜晚的海边
-![pic](/image/brazil_60.JPG)
-
-手工艺品市场
-![pic](/image/brazil_61.JPG)
-![pic](/image/brazil_62.JPG)
-![pic](/image/brazil_63.JPG)
-
-音乐博物馆
-![pic](/image/brazil_65.JPG)
-
-电梯
-![pic](/image/brazil_66.JPG)
-
-教堂
-![pic](/image/brazil_67.JPG)
-![pic](/image/brazil_68.JPG)
-![pic](/image/brazil_69.JPG)
-
-
-竹林
-![pic](/image/brazil_70.JPG)
-
-
-海滩
-![pic](/image/brazil_73.JPG)
-![pic](/image/brazil_64.JPG)
-
-贫民窟
-![pic](/image/brazil_76.JPG)
-
-荒废的downtown
-![pic](/image/brazil_79.JPG)
-
-旅游区downtown
-![pic](/image/brazil_80.JPG)
-
-
-美术馆
-![pic](/image/brazil_77.JPG)
-![pic](/image/brazil_78.JPG)
-
-livehouse
-![pic](/image/brazil_82.JPG)
 

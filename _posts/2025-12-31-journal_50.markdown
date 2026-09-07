@@ -6,6 +6,7 @@ categories: 生活
 featured: false
 published: true
 draft: false
+self: true
 ---
 
 前段时间chatgpt的那个年终总结出来，我才意识到其实chatgpt现在已经取代了google，成为了我最重要的搜索引擎。
